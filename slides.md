@@ -44,7 +44,7 @@ Un peu de code à la rescousse... (désolé, pas pu m'en empêcher... 😊)
 <v-click>
 
 ```ts {1-4|5|6|7|8|9|10-15|all}
-/* fonction: decroîtr () pour l'utilisateur "Peio",
+/* fonction: decroître() pour l'utilisateur "Peio",
    TODO: à adapter pour son cas perso
    Licence: Libre de droits */
 function decroître() {
