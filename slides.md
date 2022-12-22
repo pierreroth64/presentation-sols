@@ -33,9 +33,11 @@ Je suis développeur et apprenti paysan. J'apprends...
 
 # "Sols" & "décroissance" ?
 
+Le lien n'est pas évident au premier abord... 🤔
+
 <v-click>
 
-Un peu de code... (pas pu m'en empêcher... 😊)
+Un peu de code à la rescousse... (désolé, pas pu m'en empêcher... 😊)
 
 </v-click>
 
