@@ -31,14 +31,26 @@ Syndrome de l'imposteur...
 
 Je suis développeur logiciel.
 
-Je ne suis **pas** un expert dans l'étude des sols ([Pédologie](https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience))).
+Je ne suis **pas** un expert dans l'étude des sols (Pédologie [^1])
 
 Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai essayé d'ordonner.
 
 
-<div class="absolute left-60px bottom-20px text-xs">
-La pédologie (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols.
-</div>
+<style>
+.footnotes-sep {
+  @apply mt-20 opacity-10;
+}
+.footnotes {
+  @apply text-sm opacity-75;
+}
+.footnote-backref {
+  display: none;
+}
+</style>
+
+<!-- <div class="absolute left-60px bottom-20px text-xs"> -->
+[^1]: La [pédologie](https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience))) (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols.
+<!-- </div> -->
 
 ---
 
