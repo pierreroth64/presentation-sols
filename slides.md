@@ -25,9 +25,20 @@ css: unocss
 
 ---
 
-# Préambule
+# Avertissements
 
-Je suis développeur et apprenti paysan. J'apprends...
+Syndrome de l'imposteur...
+
+Je suis développeur logiciel.
+
+Je ne suis **pas** un expert dans l'étude des sols ([Pédologie](https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience))).
+
+Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai essayé d'ordonner.
+
+
+<div class="absolute left-60px bottom-20px text-xs">
+La pédologie (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols.
+</div>
 
 ---
 
@@ -63,6 +74,10 @@ function decroître() {
 ```
 </v-click>
 
+<div class="absolute left-60px bottom-10px text-xs">
+Appuyer sur la touche ➡️
+</div>
+
 ---
 
 # Quelques pointeurs
@@ -73,35 +88,52 @@ function decroître() {
 
 ---
 
-# Décroître Ensemble
+# Etat des lieux
 
-<v-click>
+Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64)
+
+<div class="grid grid-cols-2">
+  <div>
+    <img src="/sol-sain.jpg" class="h-55 rounded" />
+    <span class="text-xs">sol sain</span>
+  </div>
+  <div>
+    <img src="/sol-inonde.jpg" class="h-55 rounded" />
+    <span class="text-xs">sol asphyxié</span>
+  </div>
+</div>
+
+---
+
+# Décroître Ensemble
 
 Reprise de notre fonction `decroître()`... 😉
 
-</v-click>
-
 <v-click>
 
-```ts {1-5|6|7-10|11|12|13|14|16|all}
+```ts {1-5|6|7-12|13|14|15|16|17|all}
 /* fonction: decroîtreEnsemble()
    Evolution de: decroïtre()
    WARNING: pas de retour possible
    Licence: Libre de droits */
 function decroîtreEnsemble() {
   while (1) { // toute la vie !
-      savoir = apprendreEnsemble(
-        { sujetsPossibles: ["alimentation", "travail du bois", "mecanique", "musique", ...],
-          avecQui: { famille, copains }
-        });
-      resultats = faireEnsemble({savoir, avecQui: { famille, copains }});
-      reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
-      copains = partager(savoir, resultats);
-      bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
-    }
+    savoir = apprendreEnsemble(
+      { 
+        sujetsPossibles: ["alimentation", "travail du bois", "mecanique", "musique", ...],
+        avecQui: { famille, copains }
+      }
+    );
+    resultats = faireEnsemble({savoir, avecQui: { famille, copains }});
+    reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
+    copains = partager(savoir, resultats);
+    bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
     bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💓
   }
-}
+}  
 ```
-
 </v-click>
+
+<div class="absolute left-60px bottom-10px text-xs">
+Appuyer sur la touche ➡️
+</div>
