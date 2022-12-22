@@ -87,12 +87,12 @@ function decroître() {
 </v-click>
 
 <div class="absolute left-60px bottom-10px text-xs">
-Appuyer sur la touche ➡️
+Appuyer sur la touche <mdi-arrow-right />
 </div>
 
 ---
 
-# Quelques pointeurs
+# Quelques articles perso
 
 - Prise de conscience: [Mon petit guide sur l'effondrement](https://www.peio.dev/posts/guide-effondrement/)
 - Analyse des fragilités: [Et si on se préparait… ensemble !](https://www.peio.dev/posts/si-on-se-preparait/)
@@ -124,13 +124,13 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64)
 - Ils creusent <span class="text-lime-500">4000 km de galeries par hectare</span>, soit 400m sous un seul m2 de votre pelouse
 - Leurs galeries <span class="text-lime-500">multiplient la surface d'échange par 5</span> ! Ce qui signifie que lorsque vous avez 1 m2 de pelouse qui échange avec l'air, en fait, vous avez 5 m2 de surface d'échange.
 - Ces galeries permettent d'améliorer la capacité de percolation d'un facteur 30 ! <span class="text-lime-500">Un sol vivant permet d'absorber 160 L/heure/m2</span>, soit 160 mm de pluie par heure ! (Comparés aux 5 à 7 mm par heure pour les sols sans vie...)
-- Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du lombrimix (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes et donc les cycles de l'azote, phosphore, potassium...
+- Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes et donc les cycles de l'azote, phosphore, potassium...
 
 ---
 
 # Décroître Ensemble
 
-Reprise de notre fonction `decroître()`... 😉
+Reprise de notre fonction `decroître()`...
 
 <v-click>
 
@@ -158,5 +158,20 @@ function decroîtreEnsemble() {
 </v-click>
 
 <div class="absolute left-60px bottom-10px text-xs">
-Appuyer sur la touche ➡️
+Appuyer sur la touche <mdi-arrow-right />
 </div>
+
+---
+
+# Références
+
+## Vers de terre
+
+- <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bouché
+- <mdi-youtube /> ["600 Unités d'Azote grâce aux Vers de Terre"](https://www.youtube.com/watch?v=enGc4CLh_is) - Marcel Bouché
+- <mdi-youtube /> ["Écologie des vers de terre & reconstruction de la fertilité des sols"](https://www.youtube.com/watch?v=NjeQU_yyDG4) - François Mulet
+
+## Maraîchage
+
+- <mdi-book-open-variant /> "Le jardinier-maraîcher - Manuel d'agriculture biologique sur petite surface" - Jean-Martin Fortier
+
