@@ -251,3 +251,10 @@ Parmi tant d'autres !
 - <mdi-book-open-variant /> "Des légumes en hiver - Produire en abondance, même sous la neig" - Eliot Coleman
 - <mdi-book-open-variant /> "Vivre avec la Terre - Permaculture, microfermes, bio-abondance" - Perrine & Charles Hervé-Gruyer
 - <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse
+
+---
+
+# Merci
+🙏 🪱 🌳
+
+Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))
