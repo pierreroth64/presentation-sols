@@ -186,6 +186,41 @@ layout: two-cols
 
 ---
 
+# Se retrousser les manches: nourrir le sol
+
+Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
+
+<div class="grid grid-cols-2">
+  <div>
+    <img src="/apport-broyat-remorque-regis.jpg" class="h-60 rounded" />
+    <span class="text-xs">Apport massif de broyat végétal (9 t sur 120 m2) </span>
+  </div>
+  <div>
+    <img src="/paillage.jpg" class="h-60 rounded" />
+    <span class="text-xs">Paillage supplémentaire (adventices)</span>
+  </div>
+</div>
+
+
+- 5 cm de feuilles mortes: tilleuls sur la propriété, transport par Arthur (8 ans), Titouan (5 ans) et Papa
+- 10 cm de broyat végétal: acheté à [Loreki](https://loreki.fr/), acheminée par Régis
+- 10 cm de paille: fournie par Régis
+
+---
+
+# Se retrousser les manches: la serre
+
+Merci à Vincent (ami paysan à Lasseube) pour le transport 🚜
+
+<div class="grid grid-cols-2 gap-1">
+  <img src="/serres-demontage-2.jpg" class="h-50 rounded" />
+  <img src="/serres-demontage-1.jpg" class="h-50 rounded" />
+  <img src="/serres-transport.jpg" class="h-50 rounded" />
+  <img src="/serres-stockees.jpg" class="h-50 rounded" />
+</div>
+
+---
+
 # Décroître **Ensemble** <mdi-handshake />
 
 Reprise de notre fonction `decroître()`...
