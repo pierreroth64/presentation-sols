@@ -1,22 +1,13 @@
 ---
-# try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-# background: https://source.unsplash.com/collection/94734566/1920x1080
-# apply any windi css classes to the current slide
+layout: cover
 class: 'text-center'
-# https://sli.dev/custom/highlighters.html
 highlighter: shiki
-# show line numbers in code blocks
 lineNumbers: false
-# some information about the slides, markdown enabled
 info: |
   ## Et si on parlait des sols ?
-# persist drawings in exports and build
 drawings:
   persist: false
-# use UnoCSS
 css: unocss
 ---
 
@@ -27,13 +18,13 @@ css: unocss
 
 # Avertissements
 
-Syndrome de l'imposteur...
+Môa, imposteur...
 
-Je suis développeur logiciel.
+Je travaille dans le développement logiciel.
 
-Je ne suis **pas** un expert dans l'étude des sols (Pédologie [^1])
+Je ne suis **pas un expert** dans l'étude des sols (Pédologie [^1])... mais ce domaine me **passionne**.
 
-Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai essayé d'ordonner.
+Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai essayé d'ordonner, mélange de faits <mdi-shield-check /> et d'expériences personnelles <mdi-shovel />
 
 
 <style>
@@ -54,13 +45,22 @@ Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai 
 
 ---
 
-# "Sols" & "décroissance" ?
+# Le plat du jour
 
-Le lien n'est pas évident au premier abord... 🤔
+- Sols & décroissance ?
+- Etat des lieux
+- Les vers de terre
+- Décroître ensemble
+
+---
+
+# Sols & décroissance ?
+
+... 🤔 ...
 
 <v-click>
 
-Un peu de code à la rescousse... (désolé, pas pu m'en empêcher... 😊)
+Le lien n'est pas évident au premier abord alors un peu de code à la rescousse... (désolé, pas pu m'en empêcher... 😊)... pour présenter mon cheminement personnel.
 
 </v-click>
 
@@ -92,28 +92,73 @@ Appuyer sur la touche <mdi-arrow-right />
 
 ---
 
-# Quelques articles perso
+# Etat des lieux...
 
-- Prise de conscience: [Mon petit guide sur l'effondrement](https://www.peio.dev/posts/guide-effondrement/)
-- Analyse des fragilités: [Et si on se préparait… ensemble !](https://www.peio.dev/posts/si-on-se-preparait/)
-- Apprendre: [Nos amis les vers de terre](https://www.peio.dev/posts/lombriciens/)
-
----
-
-# Etat des lieux
-
-Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64)
+Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le 18 décembre 2022.
 
 <div class="grid grid-cols-2">
   <div>
-    <img src="/sol-sain.jpg" class="h-55 rounded" />
-    <span class="text-xs">sol sain</span>
+    <img src="/sol-sain.jpg" class="h-60 rounded" />
+    <span class="text-xs">prairie permanente</span>
   </div>
   <div>
-    <img src="/sol-inonde.jpg" class="h-55 rounded" />
-    <span class="text-xs">sol asphyxié</span>
+    <img src="/sol-inonde.jpg" class="h-60 rounded" />
+    <span class="text-xs">champ travaillé mécaniquement (mono-culture maïs)</span>
   </div>
 </div>
+
+...et des questions :
+
+- Avez-vous déjà vu une forêt inondée après une pluie ?
+- Pourquoi une forêt (avec de si grands sujets <mdi-tree />) pousse toute seule ?
+
+---
+
+# Caractéristiques d'un sol
+
+- géologique
+- physique
+- biologique - galeries des vers de terre: capacité de percolation, surface d'échange multipliée (x5), perméable à la progression des racines
+- structure -
+- taux d'humus - minéralisation lente adaptée aux plantes, rétention d'eau (23 L / m2 de plus par point de matière organique supplémentaire)
+
+---
+
+# Le grand cycle
+
+Source <mdi-wikipedia />: [Rhizosphère](https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re)
+
+<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded" />
+
+---
+layout: two-cols
+---
+
+# Les acteurs principaux 
+
+... qui collaborent et s'entraident <mdi-handshake />
+
+- l'arbre <mdi-tree />
+- le ver de terre 🪱
+- et les tout-petits :
+  - champignons <mdi-mushroom />
+  - bactéries <mdi-bacteria />
+  - etc...
+
+::right::
+
+<img src="/livre-entraide.jpg" class="h-80 rounded" />
+
+<span class="text-xs">Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous"</span>
+
+---
+
+# L'arbre 🌳
+
+- au contact de la roche mère: capte des minéraux dans une source "infinie"
+- nourrit le sol avec ses racines mortes, branches et feuilles qui tombent au sol. Nourriture apportée "par le dessus" et qui rentre dans la formation du complexe argilo-humique via l'intervention des micro-organismes (bactéries et champignons) et l'ingestion des vers de terre (lombrimix)
+- communication inter-individues et symbiose avec les champignons
+- pompe à eau, collaboration pour l'échange d'eau
 
 ---
 
@@ -128,7 +173,20 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64)
 
 ---
 
-# Décroître Ensemble
+# Les champignons et bactéries
+
+## Les champignons
+
+- [Mycorhize](https://fr.wikipedia.org/wiki/Mycorhize)
+- vont chercher l'eau entre les feuillets d'argile là où les racines ne vont pas
+
+## Les bactéries
+
+- fixatrices d'azote (de l'air ! 😎)
+
+---
+
+# Décroître **Ensemble** <mdi-handshake />
 
 Reprise de notre fonction `decroître()`...
 
@@ -137,21 +195,21 @@ Reprise de notre fonction `decroître()`...
 ```ts {1-5|6|7-12|13|14|15|16|17|all}
 /* fonction: decroîtreEnsemble()
    Evolution de: decroïtre()
-   WARNING: pas de retour possible
+   WARNING: ⚠️ pas de retour possible
    Licence: Libre de droits */
 function decroîtreEnsemble() {
   while (1) { // toute la vie !
     savoir = apprendreEnsemble(
       { 
-        sujetsPossibles: ["alimentation", "travail du bois", "mecanique", "musique", ...],
+        sujetsPossibles: ["alimentation", "travail du bois", "mecanique", "musique", ...], // plus de sujets possibles
         avecQui: { famille, copains }
       }
     );
-    resultats = faireEnsemble({savoir, avecQui: { famille, copains }});
+    resultats = faireEnsemble({savoir, avecQui: { famille, copains }}); // meilleurs résultats que tout seul
     reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
-    copains = partager(savoir, resultats);
+    copains = partager(savoir, resultats); // nouveaux contacts.. potentiels nouveaux amis
     bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
-    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💓
+    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖 ♾️
   }
 }  
 ```
@@ -163,9 +221,25 @@ Appuyer sur la touche <mdi-arrow-right />
 
 ---
 
-# Références
+# Remerciements
 
-## Vers de terre
+On s'y attarde un peu car leur enseignement a changé le cour de ma vie
+
+- Marcel Bouché
+- Konrad Schreiber
+- François Mulet ([Ver de terre production](https://www.verdeterreprod.fr/) )
+- Damien Dekarz ([Permaculture & agroécologie](https://www.youtube.com/channel/UCsM4_jihNFYe4CtSkXvDR-Q))
+- Jean-Martin Fortier ([Le jardinier maraïcher](https://lejardiniermaraicher.com/))
+- Eliot Coleman ([4 season farm](https://www.fourseasonfarm.com))
+- Perrine & Charles Hervé-Gruyer ([Ferme du Bec Hellouin](https://www.fermedubec.com/))
+
+---
+
+# Quelques références
+
+Parmi tant d'autres !
+
+## Sols
 
 - <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bouché
 - <mdi-youtube /> ["600 Unités d'Azote grâce aux Vers de Terre"](https://www.youtube.com/watch?v=enGc4CLh_is) - Marcel Bouché
@@ -174,4 +248,6 @@ Appuyer sur la touche <mdi-arrow-right />
 ## Maraîchage
 
 - <mdi-book-open-variant /> "Le jardinier-maraîcher - Manuel d'agriculture biologique sur petite surface" - Jean-Martin Fortier
-
+- <mdi-book-open-variant /> "Des légumes en hiver - Produire en abondance, même sous la neig" - Eliot Coleman
+- <mdi-book-open-variant /> "Vivre avec la Terre - Permaculture, microfermes, bio-abondance" - Perrine & Charles Hervé-Gruyer
+- <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse
