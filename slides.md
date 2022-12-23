@@ -98,11 +98,11 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le
 
 <div class="grid grid-cols-2">
   <div>
-    <img src="/sol-sain.jpg" class="h-60 rounded" />
+    <img src="/sol-sain.jpg" class="h-60 rounded drop-shadow-xl" />
     <span class="text-xs">prairie permanente</span>
   </div>
   <div>
-    <img src="/sol-inonde.jpg" class="h-60 rounded" />
+    <img src="/sol-inonde.jpg" class="h-60 rounded drop-shadow-xl" />
     <span class="text-xs">champ travaillé mécaniquement (mono-culture maïs)</span>
   </div>
 </div>
@@ -128,7 +128,7 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le
 
 Source <mdi-wikipedia />: [Rhizosphère](https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re)
 
-<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded" />
+<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
 
 ---
 layout: two-cols
@@ -147,7 +147,7 @@ layout: two-cols
 
 ::right::
 
-<img src="/livre-entraide.jpg" class="h-80 rounded" />
+<img src="/livre-entraide.jpg" class="h-80 rounded drop-shadow-xl" />
 
 <span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - [librairiesindependantes.com](https://www.librairiesindependantes.com/product/9791092457391/)</span>
 
@@ -192,11 +192,11 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 <div class="grid grid-cols-2">
   <div>
-    <img src="/apport-broyat-remorque-regis.jpg" class="h-60 rounded" />
+    <img src="/apport-broyat-remorque-regis.jpg" class="h-60 rounded drop-shadow-xl" />
     <span class="text-xs">Apport massif de broyat végétal (9 t sur 120 m2) </span>
   </div>
   <div>
-    <img src="/paillage.jpg" class="h-60 rounded" />
+    <img src="/paillage.jpg" class="h-60 rounded drop-shadow-xl" />
     <span class="text-xs">Paillage supplémentaire (adventices)</span>
   </div>
 </div>
@@ -210,13 +210,13 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 # Se retrousser les manches: la serre
 
-Merci à Vincent (ami paysan à Lasseube) pour le transport 🚜
+Merci à Vincent (ami paysan à Lasseube) pour coup de main 💪 et le transport 🚜
 
 <div class="grid grid-cols-2 gap-1">
-  <img src="/serres-demontage-2.jpg" class="h-50 rounded" />
-  <img src="/serres-demontage-1.jpg" class="h-50 rounded" />
-  <img src="/serres-transport.jpg" class="h-50 rounded" />
-  <img src="/serres-stockees.jpg" class="h-50 rounded" />
+  <img src="/serres-demontage-2.jpg" class="h-50 rounded drop-shadow-xl" />
+  <img src="/serres-demontage-1.jpg" class="h-50 rounded drop-shadow-xl" />
+  <img src="/serres-transport.jpg" class="h-50 rounded drop-shadow-xl" />
+  <img src="/serres-stockees.jpg" class="h-50 rounded drop-shadow-xl" />
 </div>
 
 ---
