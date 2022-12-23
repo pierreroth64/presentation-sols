@@ -242,7 +242,7 @@ function decroîtreEnsemble() {
     );
     resultats = faireEnsemble({savoir, avecQui: { famille, copains }}); // meilleurs résultats que tout seul
     reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
-    copains = partager(savoir, resultats); // nouveaux contacts.. potentiels nouveaux amis
+    copains = partager(savoir, resultats); // nouveaux contacts.. potentiels nouveaux copains
     bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
     bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖 ♾️
   }
