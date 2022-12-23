@@ -210,7 +210,7 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 # Se retrousser les manches: la serre
 
-Merci à Vincent (ami paysan à Lasseube) pour coup de main 💪 et le transport 🚜
+Mercis à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
 
 <div class="grid grid-cols-2 gap-1">
   <img src="/serres-demontage-2.jpg" class="h-50 rounded drop-shadow-xl" />
