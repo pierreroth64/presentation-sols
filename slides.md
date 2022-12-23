@@ -221,7 +221,7 @@ Mercis à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
 
 ---
 
-# Décroître **Ensemble** <mdi-handshake />
+# Décroître **Ensemble** <mdi-handshake /> en faisant
 
 Reprise de notre fonction `decroître()`...
 
@@ -244,7 +244,7 @@ function decroîtreEnsemble() {
     reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
     copains = partager(savoir, resultats); // nouveaux contacts.. potentiels nouveaux copains
     bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
-    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖 ♾️
+    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖, maîtrise de l'éco-anxiété
   }
 }  
 ```
