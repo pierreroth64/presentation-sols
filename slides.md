@@ -255,6 +255,7 @@ Parmi tant d'autres !
 ---
 
 # Merci
-🙏 🪱 🌳
 
-Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))
+<img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
+
+<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
