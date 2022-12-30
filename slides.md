@@ -109,8 +109,24 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le
 
 ...et des questions :
 
+- De quoi ont besoin les plantes pour grandir ?
 - Avez-vous déjà vu une forêt inondée après une pluie ?
 - Pourquoi une forêt (avec de si grands sujets <mdi-tree />) pousse toute seule ?
+
+---
+
+# La plante 🌱
+
+Ses besoins pour grandir :
+
+- CO2
+- Lumière (photosynthèse)
+- Minéraux (N, P, K)
+- Oligo-éléments
+
+Donc, théoriquement (et pratiquement !), on pourrait cultuver sur un support inerte (billes de plastiques)
+
+Mais dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (car nécessitant du gaz naturel pour leur production). Ne pourrait-on pas revenir aux fondamentaux ? Dame nature a fait pousser des forêts majestueuses sans engrais, sans machine...
 
 ---
 
@@ -141,8 +157,8 @@ layout: two-cols
 - l'arbre <mdi-tree />
 - le ver de terre 🪱
 - et les tout-petits :
-  - champignons <mdi-mushroom />
-  - bactéries <mdi-bacteria />
+  - le champignon <mdi-mushroom />
+  - la bactérie <mdi-bacteria />
   - etc...
 
 ::right::
@@ -170,6 +186,10 @@ layout: two-cols
 - Leurs galeries <span class="text-lime-500">multiplient la surface d'échange par 5</span> ! Ce qui signifie que lorsque vous avez 1 m2 de pelouse qui échange avec l'air, en fait, vous avez 5 m2 de surface d'échange.
 - Ces galeries permettent d'améliorer la capacité de percolation d'un facteur 30 ! <span class="text-lime-500">Un sol vivant permet d'absorber 160 L/heure/m2</span>, soit 160 mm de pluie par heure ! (Comparés aux 5 à 7 mm par heure pour les sols sans vie...)
 - Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes et donc les cycles de l'azote, phosphore, potassium...
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: "Des vers de terre et des hommes"
+</div>
 
 ---
 
@@ -210,7 +230,7 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 # Se retrousser les manches: la serre
 
-Mercis à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
+Merci à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
 
 <div class="grid grid-cols-2 gap-1">
   <img src="/serres-demontage-2.jpg" class="h-50 rounded drop-shadow-xl" />
@@ -284,8 +304,8 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 
 - <span class="text-sm"><mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse</span>
 - <span class="text-sm"><mdi-book-open-variant /> "Vivre avec la Terre - Permaculture, microfermes, bio-abondance" - Perrine & Charles Hervé-Gruyer</span>
-- <span class="text-sm"><mdi-book-open-variant /> "Le jardinier-maraîcher - Manuel d'agriculture biologique sur petite surface" - Jean-Martin Fortier</span>
 - <span class="text-sm"><mdi-book-open-variant /> "Des légumes en hiver - Produire en abondance, même sous la neig" - Eliot Coleman</span>
+- <span class="text-sm"><mdi-book-open-variant /> "Le jardinier-maraîcher - Manuel d'agriculture biologique sur petite surface" - Jean-Martin Fortier</span>
 
 ---
 
