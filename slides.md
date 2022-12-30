@@ -236,7 +236,7 @@ function decroîtreEnsemble() {
   while (1) { // toute la vie !
     savoir = apprendreEnsemble(
       { 
-        sujetsPossibles: ["alimentation", "travail du bois", "mecanique", "musique", ...], // plus de sujets possibles
+        sujetsPossibles: ["culture légumes", "travail du bois", "production de miel", "conserves", ...], // plus de sujets possibles
         avecQui: { famille, copains }
       }
     );
