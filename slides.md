@@ -119,14 +119,20 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le
 
 Ses besoins pour grandir :
 
-- CO2
-- Lumière (photosynthèse)
-- Minéraux (N, P, K)
+- CO2 - <span class="text-xs">(ça, on en a assez 🙄...)</span>
+- Lumière - <span class="text-xs">(ça, on ne devrait pas en manquer)</span>
+- Minéraux (N, P, K) - 
 - Oligo-éléments
 
-Donc, théoriquement (et pratiquement !), on pourrait cultuver sur un support inerte (billes de plastiques)
+Donc, théoriquement (et pratiquement !), on pourrait cultiver sur un support inerte (billes de plastiques)
 
 Mais dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (car nécessitant du gaz naturel pour leur production). Ne pourrait-on pas revenir aux fondamentaux ? Dame nature a fait pousser des forêts majestueuses sans engrais, sans machine...
+
+<v-click>
+Les nutriments (minéraux et oligo-éléments) des végétaux sont disponibles dans le sol.
+
+<span class="text-lime-500">Le sol ne serait-il pas un bien commun à protéger à tout prix ? </span>
+</v-click>
 
 ---
 
