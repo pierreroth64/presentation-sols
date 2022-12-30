@@ -221,7 +221,7 @@ Mercis à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
 
 ---
 
-# Décroître **Ensemble** <mdi-handshake /> en faisant
+# Décroître **Ensemble** <mdi-handshake /> <u>en faisant</u>
 
 Reprise de notre fonction `decroître()`...
 
