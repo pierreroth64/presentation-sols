@@ -149,7 +149,7 @@ layout: two-cols
 
 <img src="/livre-entraide.jpg" class="h-80 rounded drop-shadow-xl" />
 
-<span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - [librairiesindependantes.com](https://www.librairiesindependantes.com/product/9791092457391/)</span>
+<span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - [L'entraide - un facteur de l'évolution](https://www.librairiesindependantes.com/product/9791092457391/)</span>
 
 ---
 
