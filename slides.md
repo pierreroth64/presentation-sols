@@ -289,10 +289,11 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 - Marcel Bouché
 - Konrad Schreiber
 - François Mulet ([Ver de terre production](https://www.verdeterreprod.fr/) )
-- Damien Dekarz ([Permaculture & agroécologie](https://www.youtube.com/channel/UCsM4_jihNFYe4CtSkXvDR-Q))
-- Jean-Martin Fortier ([Le jardinier maraïcher](https://lejardiniermaraicher.com/))
-- Eliot Coleman ([4 season farm](https://www.fourseasonfarm.com))
 - Perrine & Charles Hervé-Gruyer ([Ferme du Bec Hellouin](https://www.fermedubec.com/))
+- Damien Dekarz ([Permaculture & agroécologie](https://www.youtube.com/channel/UCsM4_jihNFYe4CtSkXvDR-Q))
+- Benoit Le Baube ([Ferme de Cagnolle](https://fermedecagnolle.fr/))
+- Eliot Coleman ([4 season farm](https://www.fourseasonfarm.com))
+- Jean-Martin Fortier ([Le jardinier maraïcher](https://lejardiniermaraicher.com/))
 
 ---
 
