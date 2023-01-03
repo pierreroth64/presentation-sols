@@ -23,7 +23,7 @@ Môa, imposteur...
 
 Je travaille dans le développement logiciel.
 
-Je ne suis **pas un expert** dans l'étude des sols (Pédologie [^1])... mais ce domaine me **passionne**.
+Je ne suis **vraiment pas** un expert dans l'étude des sols (Pédologie [^1])... mais ce domaine me passionne.
 
 Ce que je vais vous raconter est une compilation de mes apprentissages que j'ai essayé d'ordonner, mélange de faits <mdi-shield-check /> et d'expériences personnelles <mdi-shovel />
 
@@ -134,6 +134,7 @@ Les nutriments (minéraux et oligo-éléments) des végétaux sont disponibles d
 
 <span class="text-lime-500">Le sol ne serait-il pas un bien commun à protéger à tout prix ? </span>
 </v-click>
+
 
 ---
 
@@ -322,4 +323,3 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 <span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
 
 <img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
-
