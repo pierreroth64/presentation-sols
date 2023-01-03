@@ -9,6 +9,7 @@ info: |
 drawings:
   persist: false
 css: unocss
+favicon: './favicon.ico'
 ---
 
 # Et si on parlait des sols ? 🪱
