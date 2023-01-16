@@ -219,7 +219,7 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 - 5 cm de feuilles mortes: tilleuls sur la propriété, transport par Arthur (8 ans) & Titouan (5 ans)
 - 10 cm de broyat végétal: 19 m3 achetés à [Loreki](https://loreki.fr/), acheminés par Régis
-- 10 cm de paille: 2 bottes rectangulaires (~ 400 kg) fournies par Régis
+- 10 cm de paille: 2 bottes rectangulaires (~ 2 x 200 kg) fournies par Régis
 
 ---
 
