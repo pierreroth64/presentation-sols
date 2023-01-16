@@ -81,7 +81,7 @@ Appuyer sur la touche <mdi-arrow-right />
 
 # Etat des lieux...
 
-Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le 18 décembre 2022.
+Photos de deux champs situés à 10 m l'un de l'autre (18 décembre 2022 après une pluie < 10 mm).
 
 <div class="grid grid-cols-2">
   <div>
@@ -98,7 +98,7 @@ Photos de deux champs situés à 10 m l'un de l'autre (Lasseube - 64), prises le
 
 - De quoi ont besoin les plantes pour grandir ?
 - Avez-vous déjà vu une forêt inondée après une pluie ?
-- Pourquoi une forêt (avec de si grands sujets <mdi-tree />) pousse toute seule ?
+- Pourquoi une forêt (avec de si grands sujets <mdi-tree />) pousse-t-elle toute seule ?
 
 ---
 
