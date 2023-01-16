@@ -104,23 +104,24 @@ Photos de deux champs situés à 10 m l'un de l'autre (18 décembre 2022 après 
 
 # La plante 🌱
 
-Ses besoins pour grandir :
+Ses besoins pour grandir:
 
-- CO2 - <span class="text-xs">(ça, on en a assez 🙄...)</span>
-- Lumière - <span class="text-xs">(ça, on ne devrait pas en manquer)</span>
-- Minéraux (N, P, K) - 
-- Oligo-éléments
+- Lumière <span class="text-xs">(ça, on ne devrait pas en manquer)</span>
+- CO2 <span class="text-xs">(ça, on en a trop 🙄...)</span>
+- H20 <span class="text-xs">(euh...)</span>
+- Minéraux (N, P, K) <span class="text-xs">(Azote, Phosphore, Potassium)</span>
+- Oligo-éléments <span class="text-xs">(Fer, Manganèse, Zinc, Cuivre, Bore, ...)</span>
 
-Donc, théoriquement (et pratiquement !), on pourrait cultiver sur un support inerte (billes de plastiques)
+Donc, on pourrait cultiver sur un support inerte (ex: billes de plastiques)
 
-Mais dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (car nécessitant du gaz naturel pour leur production). Ne pourrait-on pas revenir aux fondamentaux ? Dame nature a fait pousser des forêts majestueuses sans engrais, sans machine...
+<span class="text-red-500">Mais</span> dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (gaz naturel) et les événements météorologiques violents beaucoup plus fréquents (sécheresses, inondations, ...)
 
-<v-click>
-Les nutriments (minéraux et oligo-éléments) des végétaux sont disponibles dans le sol.
+<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée</span> <span class="text-xs">(elle est même une des sources du problème...)</span>
 
-<span class="text-lime-500">Le sol ne serait-il pas un bien commun à protéger à tout prix ? </span>
-</v-click>
-
+<!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
+Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
+Le cuivre renforce les parois ligno-cellulosiques et favorise la fertilité des épis
+Le bore participe à la multiplication cellulaire et la croissance et conditionne la fertilité du pollen -->
 
 ---
 
@@ -218,7 +219,7 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 - 5 cm de feuilles mortes: tilleuls sur la propriété, transport par Arthur (8 ans) & Titouan (5 ans)
 - 10 cm de broyat végétal: 19 m3 achetés à [Loreki](https://loreki.fr/), acheminés par Régis
-- 10 cm de paille: 2 bottes carrées fournies par Régis
+- 10 cm de paille: 2 bottes rectangulaires (~ 400 kg) fournies par Régis
 
 ---
 
