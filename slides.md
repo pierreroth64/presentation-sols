@@ -116,7 +116,7 @@ Donc, on pourrait cultiver sur un support inerte (ex: billes de plastiques)
 
 <span class="text-red-500">Mais</span> dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (gaz naturel) et les événements météorologiques violents beaucoup plus fréquents (sécheresses, inondations, ...)
 
-<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée</span> <span class="text-xs">(elle est même une des sources du problème...)</span>
+<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
 
 <!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
 Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
