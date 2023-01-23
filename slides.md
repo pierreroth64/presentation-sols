@@ -53,7 +53,7 @@ Le lien n'est pas évident au premier abord alors un peu de code à la rescousse
 
 <v-click>
 
-```ts {1-4|5|6|7|8|9|10-15|all}
+```ts {1-4|5|6|7|8|9|10-16|all}
 /* fonction: decroître() pour l'utilisateur "Peio",
    TODO: à adapter pour son cas perso
    Licence: Libre de droits */
@@ -66,7 +66,8 @@ function decroître() {
   reduireMonEmpreinteEcologique(          // Youpie ! 🎉 🌳 😋
     { 
       mangerLocal: resultats.legumes,
-      lowTech: resultats.techniques
+      lowTech: resultats.techniques,
+      sequestrationCarbone: resultats.humification
     }
   ); 
 }
