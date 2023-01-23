@@ -66,7 +66,7 @@ function decroître() {
   const alimentation = prioriserMesActions(fragilités); // pour moi, ce sera l'alimentation 🥕 🥒
   const savoir = apprendre(alimentation); // apprentissage sur le fonctionnement des sols 🪱 🍂
   const resultats = faire(savoir);        // échecs/réussites 😅
-  reduireMonEmpreinteEcologique(          // Youpie ! 🎉 🌳 😋
+  reduireMonEmpreinteEcologique(          // le début de "ma" décroissance 🌳
     { 
       mangerLocal: resultats.legumes,
       lowTech: resultats.techniques,
@@ -108,19 +108,19 @@ Photos de deux champs situés à 10 m l'un de l'autre (18 décembre 2022 après 
 
 # La plante 🌱
 
-Ses besoins pour grandir:
+Ses besoins pour grandir (photo-synthèse):
 
-- Lumière <span class="text-xs">(ça, on ne devrait pas en manquer)</span>
-- CO2 <span class="text-xs">(ça, on en a trop 🙄...)</span>
-- H20 <span class="text-xs">(euh...)</span>
+- Lumière <span class="text-xs">(on ne devrait pas en manquer)</span>
+- CO2 <span class="text-xs">(on en a trop 🙄...)</span>
+- H20 <span class="text-xs">(désormais: trop d'un coup ou pas assez)</span>
 - Minéraux (N, P, K) <span class="text-xs">(Azote, Phosphore, Potassium)</span>
 - Oligo-éléments <span class="text-xs">(Fer, Manganèse, Zinc, Cuivre, Bore, ...)</span>
 
-Donc, on pourrait cultiver sur un support inerte (ex: billes de plastiques)
+Donc, on pourrait cultiver sur un support inerte... (ex: billes de plastiques)
 
-<span class="text-red-500">Mais</span> dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (gaz naturel) et les événements météorologiques violents beaucoup plus fréquents (sécheresses, inondations, ...)
+<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (gaz naturel) et les événements météorologiques violents beaucoup plus fréquents (sécheresses, inondations, ...)
 
-<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
+<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
 
 <!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
 Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
@@ -131,7 +131,7 @@ Le bore participe à la multiplication cellulaire et la croissance et conditionn
 
 # Le sol à notre secours
 
-(une des solutions est sous nos pieds...)
+(une des solutions est sous nos pieds... si si, demandez à nos forêts !)
 
 - géologique
 - physique
@@ -257,7 +257,7 @@ function decroîtreEnsemble() {
   while (1) { // toute la vie !
     savoir = apprendreEnsemble(
       { 
-        sujetsPossibles: ["culture légumes", "travail du bois", "production de miel", "conserves", ...], // plus de sujets possibles
+        sujetsPossibles: ["culture légumes", "travail du bois", "production de miel", "conserves", ...],
         avecQui: { famille, copains }
       }
     );
@@ -265,7 +265,7 @@ function decroîtreEnsemble() {
     reduireEmpreinteEcologique({resultats, pourQui: { famille, copains }}); // Youpie ! 🎉 🌳 💯
     copains = partager(savoir, resultats); // nouveaux contacts.. potentiels nouveaux copains
     bienEtre = jouerDeLaMusique(copains); // 🎵 🎻 🎸
-    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖, maîtrise de l'éco-anxiété
+    bonheur = sommeIncalculable(copains + savoir + resultats + bienEtre ); // 💖 maîtrise de l'éco-anxiété
   }
 }  
 ```
