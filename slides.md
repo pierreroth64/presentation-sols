@@ -94,9 +94,8 @@ Photos de deux champs situés à 10 m l'un de l'autre (18 décembre 2022 après 
   </div>
 </div>
 
-...et des questions :
+...et quelques questions :
 
-- De quoi ont besoin les plantes pour grandir ?
 - Avez-vous déjà vu une forêt inondée après une pluie ?
 - Pourquoi une forêt (avec de si grands sujets <mdi-tree />) pousse-t-elle toute seule ?
 
