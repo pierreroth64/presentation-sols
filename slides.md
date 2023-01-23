@@ -306,7 +306,7 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 
 # Merci
 
-<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et ses sources (libres de droits) <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
+<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) et ses sources  <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols) (libres de droits)</span>
 
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-2">
