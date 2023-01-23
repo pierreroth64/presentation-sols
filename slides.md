@@ -19,16 +19,19 @@ favicon: './favicon.ico'
 
 # Avertissements
 
-Môa, l'imposteur...
+(L'imposteur du jour...)
 
 Je travaille dans le développement logiciel.
 
-Je ne suis **vraiment pas** un expert dans l'étude des sols (Pédologie [^1])... mais ce domaine me passionne.
+Je ne suis **vraiment pas** un expert dans l'étude des sols (Pédologie)... mais ce domaine me passionne.
+
+Je vais essayer de ne pas rentrer dans la technique pour ne pas vous faire fuir.
 
 
-<!-- <p class="absolute left-60px bottom-20px text-xs"> -->
-[^1]: La [pédologie](https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience))) (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols.
-<!-- </p> -->
+<footer class="absolute bottom-10 left-20 right-20">
+  <span class="text-xs italic"><mdi-wikipedia /> "<a href="https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience)">La pédologie</a> (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols."</span>
+</footer>
+
 
 ---
 
