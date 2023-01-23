@@ -319,9 +319,9 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
   </div>
   <div class="col-span-1">
   <p class="text-sm italic">
-  Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine.
-  <br />
-  -- Pierre Rabhi 
+  "Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine."
   </p>
+  <br />
+  Pierre Rabhi 
   </div>
 </div>
