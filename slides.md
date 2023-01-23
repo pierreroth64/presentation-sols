@@ -125,7 +125,9 @@ Le bore participe à la multiplication cellulaire et la croissance et conditionn
 
 ---
 
-# Caractéristiques d'un sol
+# Le sol à notre secours
+
+(une des solutions est sous nos pieds...)
 
 - géologique
 - physique
@@ -309,4 +311,15 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 
 <span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
 
-<img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
+<div class="grid grid-cols-3 gap-4">
+  <div class="col-span-2">
+    <img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1">
+  <p class="text-sm italic">
+  Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine.
+  <br />
+  -- Pierre Rabhi 
+  </p>
+  </div>
+</div>
