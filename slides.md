@@ -77,10 +77,6 @@ function decroître() {
 ```
 </v-click>
 
-<div class="absolute left-60px bottom-10px text-xs">
-Appuyer sur la touche <mdi-arrow-right />
-</div>
-
 ---
 
 # Etat des lieux...
@@ -271,10 +267,6 @@ function decroîtreEnsemble() {
 ```
 </v-click>
 
-<div class="absolute left-60px bottom-10px text-xs">
-Appuyer sur la touche <mdi-arrow-right />
-</div>
-
 ---
 
 # Remerciements
@@ -314,7 +306,7 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 
 # Merci
 
-<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et son code <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
+<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) (et ses sources (libres de droits) <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols))</span>
 
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-2">
