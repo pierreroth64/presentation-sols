@@ -297,6 +297,7 @@ On s'y attarde un peu car leur enseignement a changé le cour de ma vie
 - <span class="text-sm"><mdi-book-open-variant /> "Le sol, la terre et les champs - Pour retrouver une agrilcuture saine" - Claude et Lydia Bourguignon</span>
 - <span class="text-sm"><mdi-youtube /> ["600 Unités d'Azote grâce aux Vers de Terre"](https://www.youtube.com/watch?v=enGc4CLh_is) - Marcel Bouché</span>
 - <span class="text-sm"><mdi-youtube /> ["Écologie des vers de terre & reconstruction de la fertilité des sols"](https://www.youtube.com/watch?v=NjeQU_yyDG4) - François Mulet</span>
+- <span class="text-sm"><mdi-movie /> ["Kiss The Ground: l'agriculture régénératrice"](https://vimeo.com/ondemand/kisstheground) - aussi disponible sur Netflix</span>
 
 ## Maraîchage
 
