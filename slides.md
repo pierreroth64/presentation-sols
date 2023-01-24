@@ -21,14 +21,14 @@ favicon: './favicon.ico'
 
 (L'imposteur du jour & la règle des 2 pieds)
 
-Je ne suis un expert dans <span class="text-orange-200 underline font-medium decoration-solid">aucun</span> des domaines suivants:
+Je ne suis un expert dans <span class="text-orange-400 underline decoration-solid">aucun</span> des domaines suivants:
 - l'étude des sols (pédologie)
 - la biologie des sols
 - les cycles (eau, minéraux, carbone)
 
 ... mais ces sujets me passionnent...
 
-<p class="text-orange-200">
+<p class="text-orange-400">
 <mdi-foot-print /> Si à n’importe quel moment, vous vous trouvez dans une situation où vous <span class="underline decoration-solid">n'apprenez plus rien</span>, <span class="underline decoration-solid">ni ne contribuez</span>, <span class="underline decoration-solid">ni ne vous faites plaisir</span>, servez vous de vos deux pieds.
 </p>
 
@@ -145,9 +145,9 @@ Comment sont produits/transformés/acheminés les sels minéraux et olligo-élé
 </p>
 
 Voyons sa composition:
-- des minéraux (des roches s'altérant et se fragmentant, lui donnant différents aspects selon la taille des agrégats formés)
-- des constituants gazeux (grâce à l'atmosphère du sol provenant de la respiration et de matières en décomposition)
-- des matières organiques (grâce à la décomposition des plantes et êtres vivants morts)
+- des <span class="text-lime-500">minéraux</span> (des roches s'altérant et se fragmentant, lui donnant différents aspects selon la taille des agrégats formés)
+- des <span class="text-lime-500">constituants gazeux</span> (grâce à l'atmosphère du sol provenant de la respiration et de matières en décomposition)
+- des <span class="text-lime-500">matières organiques</span> (grâce à la décomposition des plantes et êtres vivants morts)
 - ... mais aussi des êtres vivants... <span class="text-lime-500">beaucoup d'êtres vivants !</span>
 
 ---
@@ -169,7 +169,7 @@ Voyons sa composition:
 
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+Sources: <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
 </div>
 
 ---
@@ -180,7 +180,7 @@ Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> 
   <div class="col-span-2">
     <img src="/cycle-mineralisation-humification.png" class="h-100 rounded drop-shadow-xl" />
   </div>
-  <div class="col-span-1 italic">
+  <div class="col-span-1">
   L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'humus</span>.
 
   La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des dizaines d'années les minéraux nécessaires aux plantes.
@@ -203,15 +203,22 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-1">
     Le <span class="font-medium text-lime-500">C</span>omplexe <span class="font-medium text-lime-500">A</span>rgilo-<span class="font-medium text-lime-500">H</span>umique
-    <img src="/complexe-argilo-humique.svg" class="h-60 rounded drop- shadow-xl" />
+    <img src="/complexe-argilo-humique.svg" class="h-60 rounded drop-shadow-xl" />
   </div>
-  <div class="col-span-2 italic">
-  blabla
+  <div class="col-span-2">
+  Les qualités du CAH :
+  <ul>
+    <li>attire les ions minéraux</li>
+    <li>assure une minéralisation lente</li>
+    <li>stocke 20 fois son poids en eau</li>
+    <li>etc...</li>
+  </ul>
   </div>
 </div>
 
-
-
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Complexe_argilo-humique">complexe argilo-humique</a>
+</div>
 ---
 layout: two-cols
 ---
@@ -231,7 +238,7 @@ layout: two-cols
 
 <img src="/livre-entraide.jpg" class="h-80 rounded drop-shadow-xl" />
 
-<span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - [L'entraide - un facteur de l'évolution](https://www.librairiesindependantes.com/product/9791092457391/)</span>
+<span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - <mdi-book-open-variant /> [L'entraide - un facteur de l'évolution](https://www.librairiesindependantes.com/product/9791092457391/)</span>
 
 ---
 
@@ -254,7 +261,7 @@ layout: two-cols
 - Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes et donc les cycles de l'azote, phosphore, potassium...
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: "Des vers de terre et des hommes"
+Source: <mdi-book-open-variant /> "Des vers de terre et des hommes"
 </div>
 
 ---
@@ -272,6 +279,16 @@ Source: "Des vers de terre et des hommes"
 
 ---
 
+# Le BRF
+
+(Bois Raméal Fragmenté)
+
+Pourquoi lui ?
+C/N lignine => humus stable
+Il faut un C/N haut car C = énergie et humification plutôt que minéralisation primaire rapide.
+
+---
+
 # Le résumé (simplifié)
 
 (au coeur du réacteur !)
@@ -284,11 +301,6 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
 ---
 
-# Et le climat dans tout ça ?
-
-Bonus: Pour chaque pourcent d'augmentation de Matière Organique, le sol stocke 20 tonnes de carbone de plus par hectare !
-
----
 
 # Se retrousser les manches: nourrir le sol
 
@@ -297,11 +309,11 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 <div class="grid grid-cols-2">
   <div>
     <img src="/apport-broyat-remorque-regis.jpg" class="h-60 rounded drop-shadow-xl" />
-    <span class="text-xs">Apport massif de broyat végétal (9 t sur 120 m2) </span>
+    <span class="text-xs">Apport massif de broyat végétal (9 t, soit ~18 m3 sur 120 m2) </span>
   </div>
   <div>
     <img src="/paillage.jpg" class="h-60 rounded drop-shadow-xl" />
-    <span class="text-xs">Paillage supplémentaire (adventices)</span>
+    <span class="text-xs">Paillage supplémentaire (occultation pour limiter adventices)</span>
   </div>
 </div>
 
@@ -322,6 +334,16 @@ Merci à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
   <img src="/serres-transport.jpg" class="h-50 rounded drop-shadow-xl" />
   <img src="/serres-stockees.jpg" class="h-50 rounded drop-shadow-xl" />
 </div>
+
+---
+
+# A inclure quelque part
+
+Pour chaque pourcent d'augmentation de Matière Organique, le sol stocke 20 tonnes de carbone de plus par hectare !
+
+1 point de + de MO => 23 L d'eau stockée
+5 points de + de MO => + de 100 L d'eau stockée !
+Vidéo : ferme cagnolle + olivier (Source: <mdi-youtube /> [une des videos ferme de cagnolle](https://www.youtube.com/watch?v=fEUeLi9tv3Y))
 
 ---
 
