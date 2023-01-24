@@ -238,7 +238,11 @@ layout: two-cols
 
 <img src="/livre-entraide.jpg" class="h-80 rounded drop-shadow-xl" />
 
-<span class="text-xs italic">"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous" - <mdi-book-open-variant /> [L'entraide - un facteur de l'évolution](https://www.librairiesindependantes.com/product/9791092457391/)</span>
+<p class="text-sm italic">
+"(...) Face au chacun pour soi et à la compétition, ce texte de philosophie sociale, d'une troublante actualité, nous rappelle que la solidarité est le meilleur chemin vers l'émancipation de toutes et tous."
+<br />
+<mdi-book-open-variant /> <a href="https://www.librairiesindependantes.com/product/9791092457391/">L'entraide - un facteur de l'évolution</a> - Pierre Kroptokine
+</p>
 
 ---
 
@@ -253,12 +257,14 @@ layout: two-cols
 
 # Les vers de terre 🪱
 
+(Darwin avait vu juste...)
+
 - 1ère masse animale de loin: <span class="text-lime-500">20 fois le poids des hommes</span> et sont sur Terre depuis des centaines de millions d'années (Anélides)
 - En France, en moyenne, il y en a environ <span class="text-lime-500">1,2 tonne par hectare</span>
 - Ils creusent <span class="text-lime-500">4000 km de galeries par hectare</span>, soit 400m sous un seul m2 de votre pelouse
 - Leurs galeries <span class="text-lime-500">multiplient la surface d'échange par 5</span> ! Ce qui signifie que lorsque vous avez 1 m2 de pelouse qui échange avec l'air, en fait, vous avez 5 m2 de surface d'échange.
 - Ces galeries permettent d'améliorer la capacité de percolation d'un facteur 30 ! <span class="text-lime-500">Un sol vivant permet d'absorber 160 L/heure/m2</span>, soit 160 mm de pluie par heure ! (Comparés aux 5 à 7 mm par heure pour les sols sans vie...)
-- Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes et donc les cycles de l'azote, phosphore, potassium...
+- Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes
 
 <div class="absolute right-60px bottom-10px text-xs italic">
 Source: <mdi-book-open-variant /> "Des vers de terre et des hommes"
