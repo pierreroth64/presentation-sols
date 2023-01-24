@@ -183,7 +183,7 @@ Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> 
   <div class="col-span-1 italic">
   L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'Humus</span>.
 
-  La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des centaines d'années les minéraux nécessaires aux plantes.
+  La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des dizaines d'années les minéraux nécessaires aux plantes.
   </div>
 </div>
 
