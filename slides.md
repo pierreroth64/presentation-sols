@@ -119,9 +119,13 @@ rappels des cours de SVT (photosynthèse)
 
 Donc, on pourrait cultiver sur un support inerte...
 
-<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
+<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée (*).</span>
 
 <span class="text-xl font-medium text-lime-500">Par nécessité ou conviction, nous devrons (re)faire confiance aux capacités du sol à nous nourrir.</span>
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+(*) elle est même une des sources du problème climatique...
+</div>
 
 <!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
 Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
