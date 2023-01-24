@@ -152,8 +152,7 @@ Voyons sa composition:
 
 ---
 
-# La minéralisation
-
+# La minéralisation (1/2)
 
 <div class="grid grid-cols-3">
   <div class="col-span-2">
@@ -175,15 +174,31 @@ Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> 
 
 ---
 
-# La minéralisation (suite)
+# La minéralisation (2/2)
 
-(mais qui fait quoi ?)
+<div class="grid grid-cols-3">
+  <div class="col-span-2">
+    <img src="/cycle-mineralisation-humification.png" class="h-100 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1 italic">
+  L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'Humus</span>.
 
-<img src="/cycle-mineralisation-humification.png" class="h-100 rounded drop-shadow-xl" />
+  La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des centaines d'années les minéraux nécessaires aux plantes.
+  </div>
+</div>
+
 
 <div class="absolute right-60px bottom-10px text-xs italic">
 Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
 </div>
+
+---
+
+# L'Humus
+
+(La star de nos sols 😎)
+
+qualités...
 
 ---
 layout: two-cols
