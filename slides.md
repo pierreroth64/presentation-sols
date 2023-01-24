@@ -23,14 +23,16 @@ favicon: './favicon.ico'
 
 Je travaille dans le développement logiciel.
 
-Je ne suis un expert dans _**aucun**_ des domaines suivants:
-- l'étude des sols (<span class="text-lime-500">Pédologie</span>)
+Je ne suis un expert dans <span class="text-orange-200 underline font-medium decoration-solid">aucun</span> des domaines suivants:
+- l'étude des sols (pédologie)
 - la biologie des sols
 - les cycles (eau, minéraux, carbone)
 
-... mais tout ceci me passionne...
+... mais ces sujets me passionnent...
 
-<mdi-warning /> Si à n’importe quel moment, vous vous trouvez dans une situation où vous N’APPRENEZ PLUS RIEN, ni ne CONTRIBUEZ, ni ne VOUS FAITES PLAISIR, servez vous de vos pieds…
+<p class="text-orange-200">
+<mdi-foot-print /> Si à n’importe quel moment, vous vous trouvez dans une situation où vous <span class="underline decoration-solid">n'apprenez plus rien</span>, <span class="underline decoration-solid">ni ne contribuez</span>, <span class="underline decoration-solid">ni ne vous faites plaisir</span>, servez vous de vos deux pieds.
+</p>
 
 
 <footer class="absolute bottom-10 left-20 right-20">
