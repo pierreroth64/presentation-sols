@@ -21,8 +21,6 @@ favicon: './favicon.ico'
 
 (L'imposteur du jour & la règle des 2 pieds)
 
-Je travaille dans le développement logiciel.
-
 Je ne suis un expert dans <span class="text-orange-200 underline font-medium decoration-solid">aucun</span> des domaines suivants:
 - l'étude des sols (pédologie)
 - la biologie des sols
