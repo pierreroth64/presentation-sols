@@ -19,13 +19,18 @@ favicon: './favicon.ico'
 
 # Avertissements
 
-(L'imposteur du jour...)
+(L'imposteur du jour & la règle des 2 pieds)
 
 Je travaille dans le développement logiciel.
 
-Je ne suis **vraiment pas** un expert dans l'étude des sols (Pédologie)... mais ce domaine me passionne.
+Je ne suis un expert dans _**aucun**_ des domaines suivants:
+- l'étude des sols (<span class="text-lime-500">Pédologie</span>)
+- la biologie des sols
+- les cycles (eau, minéraux, carbone)
 
-Je vais essayer de ne pas rentrer dans la technique pour ne pas vous faire fuir.
+... mais tout ceci me passionne...
+
+<mdi-warning /> Si à n’importe quel moment, vous vous trouvez dans une situation où vous N’APPRENEZ PLUS RIEN, ni ne CONTRIBUEZ, ni ne VOUS FAITES PLAISIR, servez vous de vos pieds…
 
 
 <footer class="absolute bottom-10 left-20 right-20">
@@ -112,13 +117,11 @@ rappels des cours de SVT (photosynthèse)
 - Minéraux (N, P, K) <span class="text-xs">(Azote, Phosphore, Potassium)</span>
 - Oligo-éléments <span class="text-xs">(Fer, Manganèse, Zinc, Cuivre, Bore, ...)</span>
 
-Donc, on pourrait cultiver sur un support inerte... (ex: billes de plastiques)
+Donc, on pourrait cultiver sur un support inerte...
 
-<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction, confrontée aux limites planétaires, les engrais seront de plus en plus chers (gaz naturel) et les événements météorologiques violents beaucoup plus fréquents (sécheresses, inondations, ...)
+<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
 
-<span class="text-orange-500">L'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span> <span class="text-xs">(elle est même une des sources du problème climatique...)</span>
-
-<span class="text-lime-500">Par nécessité ou conviction, nous devrons (re)faire confiance aux capacités du sol à nous nourrir.</span>
+<span class="text-xl font-medium text-lime-500">Par nécessité ou conviction, nous devrons (re)faire confiance aux capacités du sol à nous nourrir.</span>
 
 <!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
 Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
@@ -127,32 +130,56 @@ Le bore participe à la multiplication cellulaire et la croissance et conditionn
 
 ---
 
-# Le sol à notre secours
+# Le sol... cet inconnu
 
 (une des solutions est sous nos pieds... si si, demandez à nos forêts !)
 
-- géologique
-- physique
-- biologique - galeries des vers de terre: capacité de percolation, surface d'échange multipliée (x5), perméable à la progression des racines
-- structure -
-- taux d'humus - minéralisation lente adaptée aux plantes, rétention d'eau (23 L / m2 de plus par point de matière organique supplémentaire)
+La question fondamentale:
 
-Comment ça marche ?
+<p class="text-lime-500 font-medium">
+Comment sont produits/transformés/acheminés les sels minéraux et olligo-éléments solubles dans l'eau et ainsi directement assimilables par les plantes ?
+</p>
 
- (résumé)
-
-Matière organique tombe au sol
-Attaquée par les champignons (pourriture blanche)
+Voyons sa composition:
+- des minéraux (des roches s'altérant et se fragmentant, lui donnant différents aspects selon la taille des agrégats formés)
+- des constituants gazeux (grâce à l'atmosphère du sol provenant de la respiration et de matières en décomposition)
+- des matières organiques (grâce à la décomposition des plantes et êtres vivants morts)
+- ... mais aussi des êtres vivants... <span class="text-lime-500">beaucoup d'êtres vivants !</span>
 
 ---
 
 # La minéralisation
 
 
+<div class="grid grid-cols-3">
+  <div class="col-span-2">
+    <img src="/mineralisation.jpg" class="h-100 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1 italic">
+  "La <span class="text-lime-500">matière organique</span> fraîche du sol subit une double transformation à travers deux processus parallèles:
+  <ul>
+    <li><span class="text-lime-500">la minéralisation primaire</span>, qui transforme la matière organique en eau, sels minéraux (nitrates, phosphates, soufre réduit) et CO2</li>
+    <li><span class="text-lime-500">l'humification</span>, qui convertit les substances organiques n'ayant pas été directement détruites au cours de la minéralisation primaire"</li>
+  </ul>
+  </div>
+</div>
 
-Source <mdi-wikipedia />: [Rhizosphère](https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re)
 
-<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+</div>
+
+---
+
+# La minéralisation (suite)
+
+(mais qui fait quoi ?)
+
+<img src="/cycle-mineralisation-humification.png" class="h-100 rounded drop-shadow-xl" />
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+</div>
 
 ---
 layout: two-cols
@@ -211,6 +238,18 @@ Source: "Des vers de terre et des hommes"
 ## Les bactéries
 
 - fixatrices d'azote (de l'air ! 😎)
+
+---
+
+# Le résumé (simplifié)
+
+(au coeur du réacteur !)
+
+<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re">Rhizosphère</a>
+</div>
 
 ---
 
