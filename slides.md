@@ -333,8 +333,6 @@ function decroîtreEnsemble() {
 
 # Remerciements
 
-On s'y attarde un peu car leur enseignement a changé le cour de ma vie
-
 - Marcel Bouché
 - Konrad Schreiber
 - François Mulet ([Ver de terre production](https://www.verdeterreprod.fr/) )
