@@ -181,9 +181,11 @@ Source: "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> 
     <img src="/cycle-mineralisation-humification.png" class="h-100 rounded drop-shadow-xl" />
   </div>
   <div class="col-span-1 italic">
-  L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'Humus</span>.
+  L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'humus</span>.
 
   La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des dizaines d'années les minéraux nécessaires aux plantes.
+
+  <span class="text-lime-500 font-medium">L'humus</span> a de multiples qualités et est l'élément central de la <span class="text-lime-500 font-medium">fertilité</span> d'un sol.
   </div>
 </div>
 
@@ -194,11 +196,21 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
 ---
 
-# L'Humus
+# L'humus
 
 (La star de nos sols 😎)
 
-qualités...
+<div class="grid grid-cols-3 gap-4">
+  <div class="col-span-1">
+    Le <span class="font-medium text-lime-500">C</span>omplexe <span class="font-medium text-lime-500">A</span>rgilo-<span class="font-medium text-lime-500">H</span>umique
+    <img src="/complexe-argilo-humique.svg" class="h-60 rounded drop- shadow-xl" />
+  </div>
+  <div class="col-span-2 italic">
+  blabla
+  </div>
+</div>
+
+
 
 ---
 layout: two-cols
