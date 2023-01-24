@@ -37,16 +37,17 @@ Je vais essayer de ne pas rentrer dans la technique pour ne pas vous faire fuir.
 
 # Le plat du jour
 
-- Sols & décroissance ?
+- Sol & décroissance ?
 - Etat des lieux
+- La plante et ses besoins
 - Les vers de terre
 - Décroître ensemble
 
 ---
 
-# Sols & décroissance ?
+# Sol & décroissance ?
 
-... 🤔 ...
+(quel est le rapport ?... 🤔)
 
 <v-click>
 
@@ -136,9 +137,18 @@ Le bore participe à la multiplication cellulaire et la croissance et conditionn
 - structure -
 - taux d'humus - minéralisation lente adaptée aux plantes, rétention d'eau (23 L / m2 de plus par point de matière organique supplémentaire)
 
+Comment ça marche ?
+
+ (résumé)
+
+Matière organique tombe au sol
+Attaquée par les champignons (pourriture blanche)
+
 ---
 
-# Le grand cycle
+# La minéralisation
+
+
 
 Source <mdi-wikipedia />: [Rhizosphère](https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re)
 
@@ -171,7 +181,7 @@ layout: two-cols
 
 - au contact de la roche mère: capte des minéraux dans une source "infinie"
 - nourrit le sol avec ses racines mortes, branches et feuilles qui tombent au sol. Nourriture apportée "par le dessus" et qui rentre dans la formation du complexe argilo-humique via l'intervention des micro-organismes (bactéries et champignons) et l'ingestion des vers de terre (lombrimix)
-- communication inter-individues et symbiose avec les champignons
+- communication inter-individus et symbiose avec les champignons
 - pompe à eau, collaboration pour l'échange d'eau
 
 ---
@@ -201,6 +211,12 @@ Source: "Des vers de terre et des hommes"
 ## Les bactéries
 
 - fixatrices d'azote (de l'air ! 😎)
+
+---
+
+# Et le climat dans tout ça ?
+
+Bonus: Pour chaque pourcent d'augmentation de Matière Organique, le sol stocke 20 tonnes de carbone de plus par hectare !
 
 ---
 
