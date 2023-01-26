@@ -39,20 +39,25 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
 
 ---
 
-# Diffusion
+# Navigation & diffusion
 
-(totalement libre de droits)
-
-<div class="grid grid-cols-3">
+<div class="grid grid-cols-2">
   <div class="col-span-1">
-    <img src="/mit-license.png" class="h-40 rounded drop-shadow-xl" />
-  </div>
-  <div class="col-span-2">
   <p>
-  Présentation à retrouver en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a> et ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a>
+  Ne rien louper, touches: <mdi-keyboard-space /> ou <mdi-arrow-right />
 
-  Libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />)
+  Revenir en arrière rapidement, touche <mdi-arrow-up />
+
+  Avancer rapidement, touche <mdi-arrow-down />
   </p>
+  </div>
+  <div class="col-span-1">
+    Présentation libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />) 
+    <ul>
+      <li>en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a></li>
+      <li>ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a></li>
+    </ul>
+    <img src="/mit-license.png" class="h-40 rounded drop-shadow-xl" />
   </div>
 </div>
 
