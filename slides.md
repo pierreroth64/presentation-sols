@@ -37,6 +37,24 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
   <span class="text-xs italic"><mdi-wikipedia /> "<a href="https://fr.wikipedia.org/wiki/P%C3%A9dologie_(g%C3%A9oscience)">La pédologie</a> (du grec πέδον / pédon, « sol », et λόγος / lógos, « étude ») est une science ayant pour but d’étudier la pédogenèse, c'est-à-dire la formation et l'évolution des sols, notamment au travers de plusieurs taxonomies des sols."</span>
 </footer>
 
+---
+
+# Diffusion
+
+(totalement libre de droits)
+
+<div class="grid grid-cols-3">
+  <div class="col-span-1">
+    <img src="/mit-license.png" class="h-40 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-2">
+  <p>
+  Présentation à retrouver en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a> et ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a>
+
+  Libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />)
+  </p>
+  </div>
+</div>
 
 ---
 
@@ -418,8 +436,6 @@ function decroîtreEnsemble() {
 ---
 
 # Merci
-
-<span class="text-xs">Présentation à retrouver en ligne [ici](https://presentation-sols-peio.netlify.app) et ses sources  <mdi-github /> [là](https://github.com/pierreroth64/presentation-sols) (libres de droits)</span>
 
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-2">
