@@ -52,12 +52,14 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
   </p>
   </div>
   <div class="col-span-1">
-    Présentation libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />) 
-    <ul>
-      <li>en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a></li>
-      <li>ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a></li>
-    </ul>
-    <img src="/mit-license.png" class="h-40 rounded drop-shadow-xl" />
+    <p>
+      <mdi-license /> Présentation libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />) 
+      <ul>
+        <li>en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a></li>
+        <li>ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a></li>
+      </ul>
+      <img src="/mit-license.png" class="h-20 rounded drop-shadow-xl" />
+    </p>
   </div>
 </div>
 
@@ -142,13 +144,9 @@ rappels des cours de SVT (photosynthèse)
 
 Donc, on pourrait cultiver sur un support inerte...
 
-<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée (*).</span>
+<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span>
 
 <span class="text-xl font-medium text-lime-500">Par nécessité ou conviction, nous devrons (re)faire confiance aux capacités du sol à nous nourrir.</span>
-
-<div class="absolute right-60px bottom-10px text-xs italic">
-(*) elle est même une des sources du problème climatique...
-</div>
 
 <!-- Le fer et le manganèse permettent le bon fonctionnement de la photosynthèse
 Le zinc protège la plante des stress oxydants (lumière, sécheresse). Il intervient dans la synthèse des protéines et de l’amidon
@@ -172,6 +170,34 @@ Voyons sa composition:
 - des <span class="text-lime-500">constituants gazeux</span> (grâce à l'atmosphère du sol provenant de la respiration et de matières en décomposition)
 - des <span class="text-lime-500">matières organiques</span> (grâce à la décomposition des plantes et êtres vivants morts)
 - ... mais aussi des êtres vivants... <span class="text-lime-500">beaucoup d'êtres vivants !</span>
+
+---
+
+# Matière Organique
+
+("MO" si vous voulez briller en soirée)
+
+<p class="italic">
+"Dans le sol, la matière organique assure de nombreuses fonctions: fourniture d'éléments minéraux nutritifs aux plantes, rétention d'eau, agrégation des particules du sol, nourriture d'une grande diversité d'organismes vivant dans le sol, etc.)."
+</p>
+
+<p class="italic">
+"La matière organique (...) est un déterminant majeur de la capacité des sols à produire des aliments et des matériaux, et à fournir d’autres services écosystémiques comme la régulation du climat et des micro-climats, du cycle de l’eau ou de la qualité de l’air. "
+</p>
+
+La matière organique, c'est <span class="text-lime-500">le coeur du réacteur du sol</span>.
+
+On exprime sa quantité en pourcentage (de sol sec):
+
+- Un sol "pauvre": < 2 %
+- Un sol "riche": > 5 %
+
+<mdi-information /> On peut déduire la 
+
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Source: <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mati%C3%A8re_organique">matière organique</a>
+</div>
 
 ---
 
@@ -315,6 +341,13 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes"
 Pourquoi lui ?
 C/N lignine => humus stable
 Il faut un C/N haut car C = énergie et humification plutôt que minéralisation primaire rapide.
+
+E. Le rapport C/N
+C/N est le rapport entre le carbone organique et l’azote total.
+Il est couramment admis que, plus le C/N d’un produit est élevé, plus il se dégrade
+lentement dans le sol et fournit de l’humus stable.
+
+le BRF présente un C/N de 50, alors que le bois de tronc présente un C/N de 500. Schématiquement, on pourrait dire que le BRF est dix fois plus riche en azote que le bois de tronc, et cette propriété le rend très accessible pour les micro-organismes décomposeurs
 
 ---
 
