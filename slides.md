@@ -65,16 +65,6 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
 
 ---
 
-# Le plat du jour
-
-- Sol & décroissance ?
-- Etat des lieux
-- La plante et ses besoins
-- Les vers de terre
-- Décroître ensemble
-
----
-
 # Sol & décroissance ?
 
 (quel est le rapport ?... 🤔)
