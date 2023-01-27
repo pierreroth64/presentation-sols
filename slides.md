@@ -277,17 +277,6 @@ Sources:
 </div>
 
 ---
-
-# Le rapport C/N
-
-(notion récurrente dans la littérature)
-
-<span class="text-lime-500">C/N</span> est le rapport entre le carbone organique et l’azote total. 
-
-Plus le <span class="text-lime-500">C/N d’un produit est élevé</span>, plus il se dégrade lentement dans le sol et <span class="text-lime-500">fournit de l’humus stable</span>.
-
-
----
 layout: two-cols
 ---
 
@@ -444,8 +433,9 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
 (Bois Raméal Fragmenté... Pourquoi lui ? )
 
-C/N est le rapport entre le carbone organique et l’azote total. Plus le C/N d’un produit est élevé, plus il se dégrade
-lentement dans le sol et fournit de l’humus stable.
+<span class="text-lime-500">C/N</span> est le rapport entre le carbone organique et l’azote total. 
+
+Plus le <span class="text-lime-500">C/N d’un produit est élevé</span>, plus il se dégrade lentement dans le sol et <span class="text-lime-500">fournit de l’humus stable</span>.
 
 - Si <span class="text-lime-500">trop de N</span> alors minéralisation est trop rapide (primaire) : <span class="text-lime-500">pas d'humufication</span>
 - Si <span class="text-lime-500">trop de C</span> alors la lignine est difficile à décomposer : <span class="text-lime-500">formation d'humus stable est très lente</span>
