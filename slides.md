@@ -330,7 +330,7 @@ Les travailleurs silencieux qui produisent cet or noir qu'est l'humus:
 - <span class="text-lime-500">nourrit le sol</span> avec ses racines mortes, branches et feuilles qui tombent au sol
 - <span class="text-lime-500">pompe le eau </span> jusque dans les nappes phréatiques
 - collabore pour l'échange d'eau
-- communique entre inter-individus et via la <span class="text-lime-500">symbiose</span> avec les champignons (Micorhyze)
+- <span class="text-lime-500">symbiose</span> avec les champignons (Micorhyze)
 
 <div class="absolute right-60px bottom-10px text-xs italic">
 Sources: 
@@ -339,7 +339,6 @@ Sources:
   <li>p. 45 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
 </ul>
 </div>
-
 
 ---
 
@@ -364,8 +363,26 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bou
 
 "Les champignons sont le réseau social des arbres forestiers"
 
-- Ce sont les premiers à intervenir (pourriture blanche) car les seuls à pouvoir <span class="text-lime-500">dégrader la lignine</span> (grosse molécule très résistante)
+- Premiers à intervenir (pourriture blanche) car les seuls capables de <span class="text-lime-500">dégrader la lignine</span>
 - <span class="text-lime-500">vont chercher l'eau</span> entre les feuillets d'argile là où les racines ne vont pas
+- Les champignons mycorhiziens vivent en <span class="text-lime-500">symbiose avec la majorité des plantes</span>
+- Les <span class="text-lime-500">mycorhizes</span> permettent d'augmenter jusqu'à <span class="text-lime-500">80 fois</span> le volume de sol exploré par les racines...
+
+<br />
+
+<div class="grid grid-cols-2 gap-4">
+  <div>
+    <img src="/mycorhize.jpg" class="h-60 rounded drop-shadow-xl" />
+  </div>
+  <div>
+    <ul>
+      <li>...rendent les <span class="text-lime-500">racines plus résistantes au gel</span></li>
+      <li>...<span class="text-lime-500">synthétisent des antibiotiques</span></li>
+      <li>...<span class="text-lime-500">filtrent les polluants chimiques</span></li>
+      <li>...améliorent la <span class="text-lime-500">structure du sol</span></li>
+    </ul>
+  </div>
+</div>
 
 
 <div class="absolute right-60px bottom-10px text-xs italic">
@@ -380,8 +397,8 @@ Sources:
 
 # Les bactéries <mdi-bacteria />
 
-- plus de 100 millions dans un 1 gramme de sol
-- fixatrices d'azote (de l'air ! 😎)
+- plus de <span class="text-lime-500">100 millions dans un 1 gramme de sol</span>
+- seules capables de <span class="text-lime-500">fixer l'azote de l'air</span>
 
 ---
 
@@ -389,7 +406,22 @@ Sources:
 
 (simplifié)
 
-<img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
+
+<div class="grid grid-cols-3 gap-4">
+  <div class="col-span-2">
+    <img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1">
+  <p>
+    La magie de la nature sous nos pieds. 
+    <br />
+    A partir de rien (de la lumière, de la pluie et de la roche), le sol se forme grâce à la collaboration de multiples acteurs.
+    <br />
+    Le cycle durable de la fertilité est en marche.
+  </p>
+  </div>
+</div>
+
 
 <div class="absolute right-60px bottom-10px text-xs italic">
 Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re">Rhizosphère</a>
@@ -409,7 +441,18 @@ lentement dans le sol et fournit de l’humus stable.
 
 Le rapport <span class="text-lime-500">C/N du BRF</span> est de 50 (*) et est <span class="text-lime-500">idéal pour enclencher rapidement le processus d'humification</span>
 
-<img src="/brf.jpg" class="h-50 rounded drop-shadow-xl" />
+<div class="grid grid-cols-4 gap-4">
+  <div class="col-span-2">
+    <img src="/brf.jpg" class="h-50 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-2">
+    <ul>
+      <li>protection contre la batance</li>
+      <li>rétention d'eau dans les fibres du bois </li>
+      <li>l'humus stable contient <span class="text-lime-500">20 fois son poids en eau</span> ! </li>
+    </ul>
+  </div>
+</div>
 
 <div class="absolute right-60px bottom-10px text-xs italic">
   <ul>
@@ -453,16 +496,6 @@ Merci à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
   <img src="/serres-transport.jpg" class="h-50 rounded drop-shadow-xl" />
   <img src="/serres-stockees.jpg" class="h-50 rounded drop-shadow-xl" />
 </div>
-
----
-
-# A inclure quelque part
-
-Pour chaque pourcent d'augmentation de Matière Organique, le sol stocke 20 tonnes de carbone de plus par hectare !
-
-1 point de + de MO => 23 L d'eau stockée
-5 points de + de MO => + de 100 L d'eau stockée !
-Vidéo : ferme cagnolle + olivier (Source: <mdi-youtube /> [une des videos ferme de cagnolle](https://www.youtube.com/watch?v=fEUeLi9tv3Y))
 
 ---
 
