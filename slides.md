@@ -358,7 +358,7 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bou
 "Les champignons sont le réseau social des arbres forestiers"
 
 - Premiers à intervenir (pourriture blanche) car les seuls capables de <span class="text-lime-500">dégrader la lignine</span>
-- <span class="text-lime-500">vont chercher l'eau</span> entre les feuillets d'argile là où les racines ne vont pas
+- Vont <span class="text-lime-500">chercher l'eau</span> entre les feuillets d'argile là <span class="text-lime-500">où les racines ne vont pas</span>
 - Les champignons mycorhiziens vivent en <span class="text-lime-500">symbiose avec la majorité des plantes</span>
 - Les <span class="text-lime-500">mycorhizes</span> permettent d'augmenter jusqu'à <span class="text-lime-500">80 fois</span> le volume de sol exploré par les racines...
 
@@ -411,7 +411,7 @@ Sources:
     <br />
     A partir de rien (de la lumière, de la pluie et de la roche), le sol se forme grâce à la collaboration de multiples acteurs.
     <br />
-    Le cycle durable de la fertilité est en marche.
+    <span class="text-lime-500">Le cycle durable de la fertilité est en marche.</span>
   </p>
   </div>
 </div>
