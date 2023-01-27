@@ -185,14 +185,9 @@ Voyons sa composition:
 "La matière organique (...) est un déterminant majeur de la capacité des sols à produire des aliments et des matériaux, et à fournir d’autres services écosystémiques comme la régulation du climat et des micro-climats, du cycle de l’eau ou de la qualité de l’air. "
 </p>
 
-La matière organique, c'est <span class="text-lime-500">le coeur du réacteur du sol</span>.
+La matière organique, c'est <span class="text-lime-500">le carburant</span> pour le <span class="text-lime-500">coeur du réacteur du sol</span>.
 
-On exprime sa quantité en pourcentage (de sol sec):
-
-- Un sol "pauvre": < 2 %
-- Un sol "riche": > 5 %
-
-<mdi-information /> On peut déduire la 
+<mdi-information /> On exprime sa teneur en pourcentage de sol sec (sol "pauvre": MO < 2 %)
 
 
 <div class="absolute right-60px bottom-10px text-xs italic">
@@ -217,13 +212,19 @@ Source: <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mati%C3%
 </div>
 
 
+<div class="absolute left-60px bottom-10px text-xs italic">
+Source: <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse
+</div>
+
 <div class="absolute right-60px bottom-10px text-xs italic">
-Sources: <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse & article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
 </div>
 
 ---
 
 # La minéralisation (2/2)
+
+(minéralisation secondaire de l'humus)
 
 <div class="grid grid-cols-3">
   <div class="col-span-2">
@@ -232,7 +233,7 @@ Sources: <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse &
   <div class="col-span-1">
   L'élément différentiant du cycle naturel <span class="text-xs">(par rapport aux apports direct de minéraux aux plantes en agriculture conventionnelle)</span> est l'entrée en jeu de <span class="text-lime-500 font-medium">l'humus</span>.
 
-  La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire</span>, est lente et libère en continu sur des dizaines d'années les minéraux nécessaires aux plantes.
+  La minéralisation de l'humus, appelée <span class="text-lime-500">minéralisation secondaire, est lente et libère en continu sur des dizaines d'années les minéraux nécessaires aux plantes</span>.
 
   <span class="text-lime-500 font-medium">L'humus</span> a de multiples qualités et est l'élément central de la <span class="text-lime-500 font-medium">fertilité</span> d'un sol.
   </div>
@@ -245,28 +246,36 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
 ---
 
-# L'humus
+# L'humus (et le "CAH")
 
 (La star de nos sols 😎)
 
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-1">
+    <p>
+    L’humus et l’argile sont associés en un complexe : 
+    <br />
+    <br />
     Le <span class="font-medium text-lime-500">C</span>omplexe <span class="font-medium text-lime-500">A</span>rgilo-<span class="font-medium text-lime-500">H</span>umique
     <img src="/complexe-argilo-humique.svg" class="h-60 rounded drop-shadow-xl" />
+    </p>
   </div>
   <div class="col-span-2">
-  Les qualités du CAH :
-  <ul>
-    <li>attire les ions minéraux</li>
-    <li>assure une minéralisation lente</li>
-    <li>stocke 20 fois son poids en eau</li>
-    <li>etc...</li>
-  </ul>
+  <p>
+  Parce qu’il fixe les cations, <span class="text-lime-500">le CAH est le garde-manger de la plante</span>.
+
+  <span class="italic">"La Capacité d’Echange en Cations (CEC) est la quantité maximale de cations qu’un poids déterminé de sol peut retenir. Elle joue un rôle fondamental pour l’alimentation en éléments minéraux de la plante.
+  La CEC dépend essentiellement du CAH du sol."</span>
+  </p>
   </div>
 </div>
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Complexe_argilo-humique">complexe argilo-humique</a>
+Sources: 
+<ul>
+  <li>article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Complexe_argilo-humique">complexe argilo-humique</a> </li>
+  <li>chap. 2 de "Les produits organiques utilisables en agriculture en Languedoc-Roussillon - Tome 1"</li>
+</ul>
 </div>
 ---
 layout: two-cols
@@ -327,6 +336,7 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes"
 
 - [Mycorhize](https://fr.wikipedia.org/wiki/Mycorhize)
 - vont chercher l'eau entre les feuillets d'argile là où les racines ne vont pas
+- "Les champignons sont le réseau social des arbres forestiers"
 
 ## Les bactéries
 
@@ -342,7 +352,7 @@ Pourquoi lui ?
 C/N lignine => humus stable
 Il faut un C/N haut car C = énergie et humification plutôt que minéralisation primaire rapide.
 
-E. Le rapport C/N
+Le rapport <a href="https://fr.wikipedia.org/wiki/Rapport_C/N">C/N</a>
 C/N est le rapport entre le carbone organique et l’azote total.
 Il est couramment admis que, plus le C/N d’un produit est élevé, plus il se dégrade
 lentement dans le sol et fournit de l’humus stable.
