@@ -502,11 +502,31 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 
 Merci à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
 
-<div class="grid grid-cols-2 gap-1">
-  <img src="/serres-demontage-2.jpg" class="h-50 rounded drop-shadow-xl" />
-  <img src="/serres-demontage-1.jpg" class="h-50 rounded drop-shadow-xl" />
-  <img src="/serres-transport.jpg" class="h-50 rounded drop-shadow-xl" />
-  <img src="/serres-stockees.jpg" class="h-50 rounded drop-shadow-xl" />
+<div class="grid grid-cols-3">
+  <div class="col-span-1">
+    <img src="/serres-demontage-2.jpg" class="h-48 rounded drop-shadow-xl" />
+    <img src="/serres-demontage-1.jpg" class="h-48 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1">
+    <img src="/serres-transport.jpg" class="h-48 rounded drop-shadow-xl" />
+    <img src="/serres-stockees.jpg" class="h-48 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1">
+    <mdi-calendar-month /> Planning
+    <ul class="list-none text-sm">
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> fév. 2021: achat ferme 3 ha</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2021: apport massif de broyat</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2021: plantation de <a href="https://fruitiersdantan.fr/">17 arbres fruitiers</a></li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> aout 2022: achat/démontage serre</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2022: plantation de 40 arbres et d'une haie</li>
+      <li> avril 2023: installation de la serre</li>
+      <li> avril-dec. 2023: rénovation maison</li>
+      <li> juin 2023: creusement de 2 mares</li>
+      <li> déc. 2023: plantation d'arbres et suite de la haie</li>
+      <li> fév. 2024: déménagement <mdi-heart class="text-red-500"/></li>
+      <li> avril. 2024: plantation de 200 pieds de vigne</li>
+    </ul>
+  </div>
 </div>
 
 ---
@@ -580,8 +600,10 @@ function decroîtreEnsemble() {
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-2">
     <img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
+    <span class="text-xs"><mdi-copyleft /> Titouan, Arthur et Peio - "Saunei" - été 2021</span>
   </div>
   <div class="col-span-1">
+
   <p class="text-sm italic">
   "Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine."
   </p>
