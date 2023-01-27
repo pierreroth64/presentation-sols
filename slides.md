@@ -55,7 +55,7 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
     <p>
       <mdi-license /> Présentation libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />) 
       <ul>
-        <li>en ligne <a href="https://presentation-sols-peio.netlify.app">ici</a></li>
+        <li>en ligne <a href="https://presentation-sols.netlify.app">ici</a></li>
         <li>ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a></li>
       </ul>
       <img src="/mit-license.png" class="h-20 rounded drop-shadow-xl" />
