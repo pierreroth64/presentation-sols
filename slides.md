@@ -394,6 +394,23 @@ Sources:
 - plus de <span class="text-lime-500">100 millions dans un 1 gramme de sol</span>
 - seules capables de <span class="text-lime-500">fixer l'azote de l'air</span>
 
+<div class="grid grid-cols-3 gap-4">
+  <div class="col-span-2">
+    <img src="/800px-Cycle_azote_fr.svg.png" class="h-90 rounded drop-shadow-xl" />
+  </div>
+  <div class="col-span-1">
+  <mdi-sprout /> <span class="italic">"La <span class="text-lime-500">fixation d'azote</span> est aussi réalisée <span class="text-lime-500">par les fabacees</span> (légumineuses) de façon indirecte, en symbiose avec des bactéries de leur rhizosphère, qui se localisent généralement dans des nodosités situées sur leurs racines."</span>
+  </div>
+</div>
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Sources: 
+<ul>
+  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Fixation_biologique_du_diazote">Fixation biologique du diazote</a> </li>
+  <li>"Le sol, la terre et les champs" -  Claude et Lydia Bourguignon</li>
+</ul>
+</div>
+
 ---
 
 # Le résumé
@@ -474,9 +491,10 @@ Merci à Régis (ami paysan à Lasseube) pour le transport 🚜
 </div>
 
 
-- 5 cm de feuilles mortes: tilleuls sur la propriété, transport par Arthur (8 ans) & Titouan (5 ans)
-- 10 cm de broyat végétal: 19 m3 achetés à [Loreki](https://loreki.fr/), acheminés par Régis
-- 10 cm de paille: 2 bottes rectangulaires (~ 2 x 200 kg) fournies par Régis
+- 5 cm de <span class="text-lime-500">feuilles mortes</span>: tilleuls sur la propriété, transport par Arthur (8 ans) & Titouan (5 ans)
+- 10 cm de <span class="text-lime-500">broyat végétal</span>: 19 m3 achetés à [Loreki](https://loreki.fr/), acheminés par Régis
+- 10 cm de <span class="text-lime-500">pailles</span>: 2 bottes rectangulaires (~ 2 x 200 kg) fournies par Régis
+- à venir: plantation d'<span class="text-lime-500">engrais vert</span>
 
 ---
 
