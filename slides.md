@@ -590,7 +590,7 @@ function decroîtreEnsemble() {
 <div class="grid grid-cols-3 gap-4">
   <div class="col-span-2">
     <img src="/saunei-bauchon-darrer.jpeg" class="h-100 rounded drop-shadow-xl" />
-    <span class="text-xs"><mdi-copyleft /> Titouan, Arthur et Peio - "Saunei" - été 2021</span>
+    <span class="text-xs"><mdi-copyleft /> Titouan, Arthur et Peio - "Saunei" - 2021.10.19</span>
   </div>
   <div class="col-span-1">
 
