@@ -322,7 +322,7 @@ Les travailleurs silencieux qui produisent cet or noir qu'est l'humus:
 
 - au contact de la roche mère, <span class="text-lime-500">capte des minéraux</span> dans une source "infinie"
 - <span class="text-lime-500">nourrit le sol</span> avec ses racines mortes, branches et feuilles qui tombent au sol
-- <span class="text-lime-500">pompe le eau </span> jusque dans les nappes phréatiques
+- <span class="text-lime-500">pompe l'eau </span> jusque dans les nappes phréatiques
 - collabore pour l'échange d'eau
 - <span class="text-lime-500">symbiose</span> avec les champignons (Micorhyze)
 
