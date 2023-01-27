@@ -71,7 +71,7 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
 
 <v-click>
 
-Le lien n'est pas évident au premier abord alors un peu de code à la rescousse... (désolé, pas pu m'en empêcher... 😊)... pour présenter mon cheminement personnel.
+Le lien n'est pas évident au premier abord alors un peu de code à la rescousse - désolé (*), pas pu m'en empêcher - pour présenter <span class="text-lime-500">mon cheminement personnel</span>.
 
 </v-click>
 
@@ -97,6 +97,10 @@ function decroître() {
 }
 ```
 </v-click>
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+(*) je travaille dans le développement logiciel...
+</div>
 
 ---
 
