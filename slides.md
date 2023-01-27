@@ -266,6 +266,10 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
   <span class="italic">"La Capacité d’Echange en Cations (CEC) est la quantité maximale de cations qu’un poids déterminé de sol peut retenir. Elle joue un rôle fondamental pour l’alimentation en éléments minéraux de la plante.
   La CEC dépend essentiellement du CAH du sol."</span>
+  
+  Bref, <span class="text-lime-500">l'humus, c'est la fertilité du sol</span>.
+  
+  Voyons donc comment il est produit... <mdi-search />
   </p>
   </div>
 </div>
@@ -277,6 +281,18 @@ Sources:
   <li>chap. 2 de "Les produits organiques utilisables en agriculture en Languedoc-Roussillon - Tome 1"</li>
 </ul>
 </div>
+
+---
+
+# Le rapport C/N
+
+(notion récurrente dans la littérature)
+
+<span class="text-lime-500">C/N</span> est le rapport entre le carbone organique et l’azote total. 
+
+Plus le <span class="text-lime-500">C/N d’un produit est élevé</span>, plus il se dégrade lentement dans le sol et <span class="text-lime-500">fournit de l’humus stable</span>.
+
+
 ---
 layout: two-cols
 ---
@@ -284,6 +300,8 @@ layout: two-cols
 # Les acteurs principaux 
 
 ... qui collaborent et s'entraident <mdi-handshake />
+
+Les travailleurs silencieux qui produisent cet or noir qu'est l'humus:
 
 - l'arbre <mdi-tree />
 - le ver de terre 🪱
@@ -306,14 +324,26 @@ layout: two-cols
 
 # L'arbre 🌳
 
-- au contact de la roche mère: capte des minéraux dans une source "infinie"
-- nourrit le sol avec ses racines mortes, branches et feuilles qui tombent au sol. Nourriture apportée "par le dessus" et qui rentre dans la formation du complexe argilo-humique via l'intervention des micro-organismes (bactéries et champignons) et l'ingestion des vers de terre (lombrimix)
-- communication inter-individus et symbiose avec les champignons
-- pompe à eau, collaboration pour l'échange d'eau
+(Le futur sauveur de l'humanité ? 💪)
+
+- au contact de la roche mère, <span class="text-lime-500">capte des minéraux</span> dans une source "infinie"
+- <span class="text-lime-500">nourrit le sol</span> avec ses racines mortes, branches et feuilles qui tombent au sol
+- <span class="text-lime-500">pompe le eau </span> jusque dans les nappes phréatiques
+- collabore pour l'échange d'eau
+- communique entre inter-individus et via la <span class="text-lime-500">symbiose</span> avec les champignons (Micorhyze)
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+Sources: 
+<ul>
+  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> </li>
+  <li>p. 45 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
+</ul>
+</div>
+
 
 ---
 
-# Les vers de terre 🪱
+# Le vers de terre 🪱
 
 (Darwin avait vu juste...)
 
@@ -325,45 +355,39 @@ layout: two-cols
 - Les vers de terre retournent, ingèrent et fertilisent <span class="text-lime-500">300 tonnes de terre par hectare par an</span>. Travail d'ingestion phénoménal produisant du <span class="text-lime-500">**lombrimix**</span> (Matière organique et minérale sortie du tube digestif d'un lombric), élément absolument central pour les micro-organismes
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: <mdi-book-open-variant /> "Des vers de terre et des hommes"
+Source: <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bouché
 </div>
 
 ---
 
-# Les champignons et bactéries
+# Le champignon <mdi-mushroom />
 
-## Les champignons
+"Les champignons sont le réseau social des arbres forestiers"
 
-- [Mycorhize](https://fr.wikipedia.org/wiki/Mycorhize)
-- vont chercher l'eau entre les feuillets d'argile là où les racines ne vont pas
-- "Les champignons sont le réseau social des arbres forestiers"
+- Ce sont les premiers à intervenir (pourriture blanche) car les seuls à pouvoir <span class="text-lime-500">dégrader la lignine</span> (grosse molécule très résistante)
+- <span class="text-lime-500">vont chercher l'eau</span> entre les feuillets d'argile là où les racines ne vont pas
 
-## Les bactéries
 
+<div class="absolute right-60px bottom-10px text-xs italic">
+Sources: 
+<ul>
+  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> </li>
+  <li>p. 89 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
+</ul>
+</div>
+
+---
+
+# Les bactéries <mdi-bacteria />
+
+- plus de 100 millions dans un 1 gramme de sol
 - fixatrices d'azote (de l'air ! 😎)
 
 ---
 
-# Le BRF
+# Le résumé
 
-(Bois Raméal Fragmenté)
-
-Pourquoi lui ?
-C/N lignine => humus stable
-Il faut un C/N haut car C = énergie et humification plutôt que minéralisation primaire rapide.
-
-Le rapport <a href="https://fr.wikipedia.org/wiki/Rapport_C/N">C/N</a>
-C/N est le rapport entre le carbone organique et l’azote total.
-Il est couramment admis que, plus le C/N d’un produit est élevé, plus il se dégrade
-lentement dans le sol et fournit de l’humus stable.
-
-le BRF présente un C/N de 50, alors que le bois de tronc présente un C/N de 500. Schématiquement, on pourrait dire que le BRF est dix fois plus riche en azote que le bois de tronc, et cette propriété le rend très accessible pour les micro-organismes décomposeurs
-
----
-
-# Le résumé (simplifié)
-
-(au coeur du réacteur !)
+(simplifié)
 
 <img src="/1024px-Microbiote_du_sol.gif" class="h-100 rounded drop-shadow-xl" />
 
@@ -371,6 +395,29 @@ le BRF présente un C/N de 50, alors que le bois de tronc présente un C/N de 50
 Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re">Rhizosphère</a>
 </div>
 
+---
+
+# Le BRF
+
+(Bois Raméal Fragmenté... Pourquoi lui ? )
+
+C/N est le rapport entre le carbone organique et l’azote total. Plus le C/N d’un produit est élevé, plus il se dégrade
+lentement dans le sol et fournit de l’humus stable.
+
+- Si <span class="text-lime-500">trop de N</span> alors minéralisation est trop rapide (primaire) : <span class="text-lime-500">pas d'humufication</span>
+- Si <span class="text-lime-500">trop de C</span> alors la lignine est difficile à décomposer : <span class="text-lime-500">formation d'humus stable est très lente</span>
+
+Le rapport <span class="text-lime-500">C/N du BRF</span> est de 50 (*) et est <span class="text-lime-500">idéal pour enclencher rapidement le processus d'humification</span>
+
+<img src="/brf.jpg" class="h-50 rounded drop-shadow-xl" />
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+  <ul>
+    <li>(*) C/N bois de tronc = 500</li>
+    <li>article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Rapport_C/N">rapport C/N</a>
+</li>
+  </ul>
+</div>
 ---
 
 
