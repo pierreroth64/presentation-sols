@@ -504,21 +504,26 @@ Merci à: Pierrot, Sébastien et Vincent... sans oublier Arthur et Titouan!
     <img src="/serres-stockees.jpg" class="h-48 rounded drop-shadow-xl" />
   </div>
   <div class="col-span-1">
-    <mdi-calendar-month /> Planning
+    <mdi-calendar-month /> Installation en cours
     <ul class="list-none text-sm">
       <li> <mdi-checkbox-marked-outline class="text-lime-500" /> fév. 2021: achat ferme 3 ha</li>
       <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2021: apport massif de broyat</li>
-      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2021: plantation de <a href="https://fruitiersdantan.fr/">17 arbres fruitiers</a></li>
-      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> aout 2022: achat/démontage serre</li>
-      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2022: plantation de 40 arbres et d'une haie</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2021: plantation 17 arbres fruitiers</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> aout 2022: achat & démontage serre</li>
+      <li> <mdi-checkbox-marked-outline class="text-lime-500" /> déc. 2022: plantation 40 arbres & haie</li>
       <li> avril 2023: installation de la serre</li>
       <li> avril-dec. 2023: rénovation maison</li>
       <li> juin 2023: creusement de 2 mares</li>
-      <li> déc. 2023: plantation d'arbres et suite de la haie</li>
-      <li> fév. 2024: déménagement <mdi-heart class="text-red-500"/></li>
-      <li> avril. 2024: plantation de 200 pieds de vigne</li>
+      <li> déc. 2023: plantation d'arbres & suite haie</li>
+      <li> fév. 2024: déménagement <mdi-heart /></li>
+      <li> avril. 2024: plantation de pieds de vigne</li>
+      <li> etc...</li>
     </ul>
   </div>
+</div>
+
+<div class="absolute right-60px bottom-10px text-xs italic">
+  (*) <a href="https://fruitiersdantan.fr/">Pépinière Gaston Couté</a> (variétés anciennes Béarn)
 </div>
 
 ---
