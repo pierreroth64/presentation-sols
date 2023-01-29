@@ -378,7 +378,7 @@ Sources:
 
 ---
 
-# Les bactéries <mdi-bacteria />
+# La bactérie <mdi-bacteria />
 
 - plus de <span class="text-lime-500">100 millions dans un 1 gramme de sol</span>
 - seules capables de <span class="text-lime-500">fixer l'azote de l'air</span>
