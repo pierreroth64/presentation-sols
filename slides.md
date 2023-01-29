@@ -56,7 +56,7 @@ Je ne suis un expert dans <span class="text-orange-400 underline decoration-soli
       <mdi-license /> Présentation libre de droits, Licence <a href="https://fr.wikipedia.org/wiki/Licence_MIT">MIT</a> (<mdi-wikipedia />) 
       <ul>
         <li>en ligne <a href="https://presentation-sols.netlify.app">ici</a></li>
-        <li>ses sources  <mdi-github /> <a href="https://github.com/pierreroth64/presentation-sols">là</a></li>
+        <li>ses sources <a href="https://github.com/pierreroth64/presentation-sols">là</a> <mdi-github /></li>
       </ul>
       <img src="/mit-license.png" class="h-20 rounded drop-shadow-xl" />
     </p>
@@ -211,7 +211,7 @@ Source: <mdi-book-open-variant /> "Le jardin naturel" - Jean-Marie Lespinasse
 </div>
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+Source: <mdi-wikipedia /> article sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
 </div>
 
 ---
@@ -235,7 +235,7 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
+Source: <mdi-wikipedia /> article sur la <a href="https://fr.wikipedia.org/wiki/Min%C3%A9ralisation_(p%C3%A9dologie)">minéralisation</a>
 </div>
 
 ---
@@ -271,8 +271,8 @@ Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/
 <div class="absolute right-60px bottom-10px text-xs italic">
 Sources: 
 <ul>
-  <li>article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Complexe_argilo-humique">complexe argilo-humique</a> </li>
-  <li>chap. 2 de "Les produits organiques utilisables en agriculture en Languedoc-Roussillon - Tome 1"</li>
+  <li><mdi-wikipedia /> article sur le <a href="https://fr.wikipedia.org/wiki/Complexe_argilo-humique">complexe argilo-humique</a> </li>
+  <li><mdi-book-open-variant /> chap. 2 de "Les produits organiques utilisables en agriculture en Languedoc-Roussillon - Tome 1"</li>
 </ul>
 </div>
 
@@ -318,8 +318,8 @@ Les travailleurs silencieux qui produisent cet or noir qu'est l'humus:
 <div class="absolute right-60px bottom-10px text-xs italic">
 Sources: 
 <ul>
-  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> </li>
-  <li>p. 45 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
+  <li><mdi-wikipedia /> article sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> </li>
+  <li><mdi-book-open-variant /> p. 45 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
 </ul>
 </div>
 
@@ -372,7 +372,7 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bou
 Sources: 
 <ul>
   <li>articles <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> et la <a href="https://fr.wikipedia.org/wiki/Lignine">Lignine</a></li>
-  <li>p. 89 de "Les Bois Raméaux Fragmentés" Asselineau & Domenech</li>
+  <li><mdi-book-open-variant /> p. 89 de "Les Bois Raméaux Fragmentés" Asselineau & Domenech</li>
 </ul>
 </div>
 
@@ -395,8 +395,8 @@ Sources:
 <div class="absolute right-60px bottom-10px text-xs italic">
 Sources: 
 <ul>
-  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Fixation_biologique_du_diazote">Fixation biologique du diazote</a> </li>
-  <li>"Le sol, la terre et les champs" -  Claude et Lydia Bourguignon</li>
+  <li><mdi-wikipedia /> article sur la <a href="https://fr.wikipedia.org/wiki/Fixation_biologique_du_diazote">Fixation biologique du diazote</a> </li>
+  <li><mdi-book-open-variant /> "Le sol, la terre et les champs" -  Claude et Lydia Bourguignon</li>
 </ul>
 </div>
 
@@ -426,7 +426,7 @@ Sources:
 
 
 <div class="absolute right-60px bottom-10px text-xs italic">
-Source: article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re">Rhizosphère</a>
+Source: <mdi-wikipedia /> article sur la <a href="https://fr.wikipedia.org/wiki/Rhizosph%C3%A8re">Rhizosphère</a>
 </div>
 
 ---
@@ -460,7 +460,7 @@ Le rapport <span class="text-lime-500">C/N du BRF</span> est de 50 (*) et est <s
 <div class="absolute right-60px bottom-10px text-xs italic">
   <ul>
     <li>(*) C/N bois de tronc = 500</li>
-    <li>article <mdi-wikipedia /> sur le <a href="https://fr.wikipedia.org/wiki/Rapport_C/N">rapport C/N</a>
+    <li><mdi-wikipedia /> article sur le <a href="https://fr.wikipedia.org/wiki/Rapport_C/N">rapport C/N</a>
 </li>
   </ul>
 </div>
