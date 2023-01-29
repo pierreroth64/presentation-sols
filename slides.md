@@ -419,7 +419,7 @@ Sources:
     <span class="text-lime-500">Le cycle durable de la fertilité est en marche.</span>
     <br />
     <br />
-    <mdi-school /> Une seule chose à retenir: <span class="text-lime-500">NE PAS TOUCHER LE SOL</span> cette machine fabuleuse et fragile qui travaille pour nous.
+    <mdi-school /> Une seule chose à retenir: <span class="text-lime-500 decoration-solid underline">NE PAS TOUCHER LE SOL</span>, cette machine fabuleuse et fragile qui travaille pour nous.
   </p>
   </div>
 </div>
