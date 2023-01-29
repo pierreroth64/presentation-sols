@@ -413,11 +413,13 @@ Sources:
   </div>
   <div class="col-span-1">
   <p>
-    La magie de la nature sous nos pieds. 
+    La magie de la nature sous nos pieds: à partir de rien (de la lumière, de la pluie et de la roche), le sol se forme grâce à la collaboration de multiples acteurs.
     <br />
-    A partir de rien (de la lumière, de la pluie et de la roche), le sol se forme grâce à la collaboration de multiples acteurs.
     <br />
     <span class="text-lime-500">Le cycle durable de la fertilité est en marche.</span>
+    <br />
+    <br />
+    <mdi-school /> Une seule chose à retenir: <span class="text-lime-500">NE PAS TOUCHER LE SOL</span> cette machine fabuleuse et fragile qui travaille pour nous.
   </p>
   </div>
 </div>
