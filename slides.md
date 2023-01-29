@@ -138,7 +138,7 @@ rappels des cours de SVT (photosynthèse)
 
 Donc, on pourrait cultiver sur un support inerte...
 
-<span class="text-red-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle basée sur la mécanisation et l'apport d'intrants de synthèse est donc menacée.</span>
+<span class="text-orange-500">..sauf que</span> dans une économie mondiale en contraction confrontée aux limites planétaires, <span class="text-orange-500">l'agriculture conventionnelle lourdement mécanisée et dépendante d'intrants de synthèse est menacée.</span>
 
 <span class="text-xl font-medium text-lime-500">Par nécessité ou conviction, nous devrons (re)faire confiance aux capacités du sol à nous nourrir.</span>
 
@@ -371,8 +371,8 @@ Source: <mdi-book-open-variant /> "Des vers de terre et des hommes" - Marcel Bou
 <div class="absolute right-60px bottom-10px text-xs italic">
 Sources: 
 <ul>
-  <li>article <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> </li>
-  <li>p. 89 de "Les Bois Raméaux Fragmentés" -  E. Asselineau & G. Domenech</li>
+  <li>articles <mdi-wikipedia /> sur la <a href="https://fr.wikipedia.org/wiki/Mycorhize">Mycorhize</a> et la <a href="https://fr.wikipedia.org/wiki/Lignine">Lignine</a></li>
+  <li>p. 89 de "Les Bois Raméaux Fragmentés" Asselineau & Domenech</li>
 </ul>
 </div>
 
@@ -593,11 +593,10 @@ function decroîtreEnsemble() {
     <span class="text-xs"><mdi-copyleft /> Titouan, Arthur et Peio - "Saunei" - 2021.10.19</span>
   </div>
   <div class="col-span-1">
-
-  <p class="text-sm italic">
-  "Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine."
-  </p>
-  <br />
-  Pierre Rabhi 
+    <p class="text-sm italic">
+    "Désormais la plus haute, la plus belle performance que devra réaliser l'humanité, sera de répondre à ses besoins vitaux avec les moyens les plus simples et le plus sains. Cultiver son jardin ou s'adonner à n'importe quelle activité créatrice d'autonomie sera considérée comme un acte politique, un acte de légitime résistance à la dépendance et à l'asservissement de la personne humaine."
+    </p>
+    <br />
+    Pierre Rabhi 
   </div>
 </div>
