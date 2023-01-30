@@ -14,6 +14,7 @@ Modifications et corrections bienvenues !
 ## Build
 
 - Installer [NodeJS](https://nodejs.org/) (idéalement via [nvm](https://github.com/nvm-sh/nvm))
+- `nvm use` (optionnel)
 - `npm install`
 - `npm run dev`
 
