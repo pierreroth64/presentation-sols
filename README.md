@@ -8,7 +8,7 @@ Modifications et corrections bienvenues !
 
 <p align="center">
   <img src="./img/sketchnote-by-diego-presentation-sol.png" />
-  <i>(sketchnote réalisée par Diego (@dfelipe64)</i>
+  <i>sketchnote réalisée par Diego (@dfelipe64)</i>
 </p>
 
 ## Build
